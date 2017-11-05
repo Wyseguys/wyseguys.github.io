@@ -13,7 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nothing New Here
+title: Pavlov's Dad
+motto: Nothing New Ever
+author: Chris Zwemke
 email: wyseguys@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am just squatting on this mediocre domain name and hogging up all the good email addresses for it.
@@ -21,6 +23,57 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wyseguys.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wyseguys
 github_username:  wyseguys
+google_analytics: UA-639642-2
+
+
+collections:
+  shittyroommate:
+    output: true
+  wayne:
+    output: true
+  computer:
+    output: true
+  dictionary:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+      author: "MrChrister"
+  -
+    scope:
+      path: ""
+      type: "shittyroommate"
+    values:
+      layout: "shitty"
+      collection-title: "Shitty Roommate"
+      attribution: "By Martin Random"
+  -
+    scope:
+      path: ""
+      type: "wayne"
+    values:
+      layout: "wayne"
+  -
+    scope:
+      path: ""
+      type: "computer"
+    values:
+      layout: "computer"
+  -
+    scope:
+      path: ""
+      type: "dictionary"
+    values:
+      layout: "dictionary"
+
+
+
+
 
 # Build settings
 markdown: kramdown
