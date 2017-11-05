@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.collection-title | escape }}</h1>
+    <p>{{ page.attribution | escape }}</p>
+  </header>
+
+  {% include shitty-nav.html %}
+
+  <h1>{{ page.title | escape }}</h1>
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
