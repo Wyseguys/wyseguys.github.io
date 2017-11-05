@@ -1,0 +1,9 @@
+<nav class="subnav">
+  <div class="subnav-title">A list of Dumb</div>
+    <ul>
+      {% assign sorted = (site.wayne | sort: 'date') %}
+      {% for item in sorted %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+</nav>
