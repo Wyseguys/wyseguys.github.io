@@ -1,0 +1,26 @@
+.subnav {
+    float:right;
+    margin: 0;
+    padding: 0 10px;
+}
+
+.subnav li {
+    padding: 5px;
+}
+
+
+.subnav-title {
+    text-align: center;
+}
+
+.subnav-current {
+    background-color: #e7e7e7ec;
+}
+
+.subnav-current a{
+    text-decoration: underline;
+}
+
+.subnav ul {
+    list-style: none;
+}

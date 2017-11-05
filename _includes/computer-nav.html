@@ -1,0 +1,9 @@
+<nav class="subnav">
+    <div class="subnav-title">Computerin'</div>
+    <ul>
+        {% assign sorted = (site.computer | sort: 'page') %}
+        {% for item in sorted %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
