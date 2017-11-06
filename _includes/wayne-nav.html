@@ -1,9 +1,9 @@
-<nav class="subnav">
-  <div class="subnav-title">A list of Dumb</div>
-    <ul>
-      {% assign sorted = (site.wayne | sort: 'date') %}
-      {% for item in sorted %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-</nav>
+<div class="subnav-title">A list of Dumb</div>
+<ul class="nav flex-column">
+  {% assign sorted = (site.wayne | sort: 'date') %}
+  {% for item in sorted %}
+  <li class="nav-item">
+    <a class="nav-link{% if item.url == page.url %} active{% endif %}>" href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

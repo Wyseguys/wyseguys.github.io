@@ -24,3 +24,23 @@
 .subnav ul {
     list-style: none;
 }
+
+.homepage-post-readmore {
+    bottom: 0;
+    margin: 20px;
+    position: absolute;
+    right: 0;
+}
+
+.homepage-post-list {
+    clear: both;
+    min-height: 200px;
+    position: relative;
+}
+
+.homepage-post {
+    float: left;
+    margin: auto;
+    padding: 10px;
+    width: 30%;
+}
