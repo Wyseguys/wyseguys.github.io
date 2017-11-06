@@ -3,8 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Blag Posts</h1>
   
   <div class="row marketing">
       <div class="col-lg-6">
@@ -21,20 +20,21 @@ layout: default
 
   {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
+  <div class="homepage-post-list">
+    {% for post in site.posts limit:3 %}
+      <div class="homepage-post">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-      </li>
+      </div>
     {% endfor %}
-  </ul>
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+    <div class="homepage-post-readmore">
+      <a class="page-link" href="{{ site.baseurl }}{% link blag/index.html %}">Read the rest of Blag</a>
+    </div>
+  </div>
+  <div>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  </div>
 </div>
