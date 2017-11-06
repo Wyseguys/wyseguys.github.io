@@ -1,19 +1,20 @@
 ---
 layout: default
 ---
-<article class="post">
-
-  <header class="post-header">
+<div class="row">
+  <div class="col-lg-12">
     <h1 class="post-title">{{ page.collection-title | escape }}</h1>
     <p>{{ page.attribution | escape }}</p>
-  </header>
-
-  {% include shitty-nav.html %}
-
-  <h1>{{ page.title | escape }}</h1>
-  <div class="post-content">
-    {{ content }}
   </div>
-
-</article>
-
+</div>
+<div class="row">
+  <div class="col-lg-9">
+      <h1>{{ page.title | escape }}</h1>
+      <div class="post-content">
+        {{ content }}
+      </div>
+  </div>
+  <div class="col-lg-3">
+      {% include shitty-nav.html %}
+  </div>
+</div>
