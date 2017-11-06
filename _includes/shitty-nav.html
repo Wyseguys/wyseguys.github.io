@@ -1,9 +1,9 @@
 <div class="subnav-title">The Saga</div>
-<ul class="nav flex-column">
+<ul class="nav flex-column nav-pills">
   {% assign sorted = (site.shittyroommate | sort: 'date') %}
   {% for item in sorted %}
   <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}>" href="{{ item.url }}">{{ item.title }}</a>
+    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
   </li>
   {% endfor %}
 </ul>

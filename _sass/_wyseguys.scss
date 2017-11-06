@@ -1,46 +1,28 @@
-.subnav {
-    float:right;
-    margin: 0;
-    padding: 0 10px;
+.header {
+    background-color: #000;
+    margin: 0 0 3em 0;
+    padding: 10px;
 }
 
-.subnav li {
-    padding: 5px;
+.header a {
+    color: #fff;
 }
-
-
-.subnav-title {
-    text-align: center;
-}
-
-.subnav-current {
-    background-color: #e7e7e7ec;
-}
-
-.subnav-current a{
+.header a:hover {
     text-decoration: underline;
 }
 
-.subnav ul {
-    list-style: none;
+.footer{
+    background-color: #e4e4e4;
+    margin: 100px 0 0 0;
+    padding: 20px 15px 10px 15px;
 }
 
-.homepage-post-readmore {
-    bottom: 0;
-    margin: 20px;
-    position: absolute;
-    right: 0;
+.nav-pills .nav-link.active {
+    background-color: $gray-800;
 }
 
-.homepage-post-list {
-    clear: both;
-    min-height: 200px;
-    position: relative;
-}
-
-.homepage-post {
-    float: left;
-    margin: auto;
-    padding: 10px;
-    width: 30%;
+blockquote {
+    border-left: 3px solid $gray-500;
+    margin: 10px 2em;
+    padding: 0 0 0 1em;
 }

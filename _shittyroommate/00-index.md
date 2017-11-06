@@ -1,5 +1,5 @@
 ---
-title: Shitty Roommate - By Martin Random
+title: Intro
 date: 2012-04-11 14:00
 permalink: shitty-roommate/
 ---
