@@ -38,6 +38,8 @@ collections:
     output: true
   dictionary:
     output: true
+  ashley:
+    output: true
 
 defaults:
   -
@@ -47,6 +49,12 @@ defaults:
     values:
       layout: "default"
       author: "MrChrister"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "ashley" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "posts"
   -
     scope:
       path: ""
