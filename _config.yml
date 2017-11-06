@@ -26,6 +26,10 @@ github_username:  wyseguys
 google_analytics: UA-639642-2
 
 
+paginate: 5
+paginate_path: "/blag/page:num/"
+
+
 collections:
   shittyroommate:
     output: true
@@ -72,14 +76,12 @@ defaults:
       layout: "dictionary"
 
 
-
-
-
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
