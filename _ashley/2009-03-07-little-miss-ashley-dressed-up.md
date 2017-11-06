@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Little Miss Ashley Dressed Up"
 date: 2009-03-07 19:51
 categories: [Ashley, Personal, Videos]

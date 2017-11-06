@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Swimming At Mt Scott"
 date: 2009-03-08 19:55
 categories: [Ashley, Personal, Videos]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Uncle Kage Showing Ashley the Ropes Of Toys"
 date: 2009-03-22 19:59
 categories: [Ashley, Personal, Videos]

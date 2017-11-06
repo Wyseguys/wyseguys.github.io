@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Homogenized Swing"
 date: 2009-04-06 00:00
 categories: [Ashley]

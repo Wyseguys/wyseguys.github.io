@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Birthday Party At the Mt Scott Pool"
 date: 2009-03-28 20:02
 categories: [Ashley, Personal, Videos]

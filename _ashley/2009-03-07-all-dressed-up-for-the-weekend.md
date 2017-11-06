@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "All dressed up for the weekend"
 date: 2009-03-07 01:00
 categories: [Ashley]

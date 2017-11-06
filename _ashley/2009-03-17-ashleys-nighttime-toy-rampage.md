@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ashley's Nighttime Toy Rampage"
 date: 2009-03-17 19:59
 categories: [Ashley, Personal, Videos]

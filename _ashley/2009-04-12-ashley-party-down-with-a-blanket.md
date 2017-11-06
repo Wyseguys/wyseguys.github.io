@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ashley Party Down With A Blanket"
 date: 2009-04-12 20:04
 categories: [Ashley, Personal, Videos]

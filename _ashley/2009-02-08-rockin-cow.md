@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Rockin' Cow"
 date: 2009-02-08 01:00
 categories: [Ashley, Of interest, Videos]

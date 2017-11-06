@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Ashley Photo Collection part 2"
 date: 2008-09-01 00:01
 categories: [Ashley, Personal]
-tags: []
 ---
 <table border="0" cellspacing="0" cellpadding="4">
 <tbody>

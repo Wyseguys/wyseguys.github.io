@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Night and Looking Suspicious"
 date: 2009-02-23 01:00
 categories: [Ashley]

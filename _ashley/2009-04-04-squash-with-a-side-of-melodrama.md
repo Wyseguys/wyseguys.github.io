@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Squash, with a side of melodrama"
 date: 2009-04-04 00:00
 categories: [Ashley, Funny, Home]

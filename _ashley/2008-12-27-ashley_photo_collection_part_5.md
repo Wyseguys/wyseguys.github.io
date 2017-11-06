@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ashley Photo Collection part 5"
 date: 2008-12-27 00:06
 categories: [Ashley, Photos]

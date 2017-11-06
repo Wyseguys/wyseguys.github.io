@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ashley Photo Collection part 3"
 date: 2008-10-31 00:03
 categories: [Ashley, Personal, Photos]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ashley Burbling In Her Crib"
 date: 2009-03-01 19:48
 categories: [Ashley, Personal, Videos]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Silvercreek Falls State Park"
 date: 2009-02-14 01:00
 categories: [Ashley]
