@@ -11,4 +11,5 @@ Here.  Look at this.
     <li><a class="page-link" href="{{ site.baseurl }}{% link _wayne/wayne-the-brain.md %}">Wayne The Brain</a></li>
     <li><a class="page-link" href="{{ site.baseurl }}{% link _dictionary/index.md %}">The Suburban Dictionary</a></li>
     <li><a class="page-link" href="{{ site.baseurl }}{% link cobo.md %}">The Church of Buffett, Orthodox</a></li>
+    <li><a class="page-link" href="{{ site.baseurl }}{% link _computer/wyse-guys-computers.md %}">Wyse Guys Computers (Formerly)</a></li>
 </ul>
