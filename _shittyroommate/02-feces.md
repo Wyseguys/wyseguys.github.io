@@ -11,7 +11,7 @@ permalink: shitty-roommate/feces/
 >*Why didn't you call the landlord and get this guy kicked out?*
 >
 
-## The feces he left around falls into three categories:
+### The feces he left around falls into three categories:
 
 A) Experiments he conducted. The stove top feces thing was an experiment he conducted after his toilet was broken, and I refused him access to mine, and his neighbors got sick of letting him use theirs. I think he was trying to find some new way of getting rid of his shit. Either that or he thought it would be funny to make me clean shit off of his stove top and then got curious about what would happen if he turned on the burner. He really liked playing with heating elements and fire. It was fucking stupid. The dead cat in the oven, I think, falls into this category as well.
 
