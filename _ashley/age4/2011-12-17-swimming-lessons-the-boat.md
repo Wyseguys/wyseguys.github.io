@@ -1,5 +1,5 @@
 ---
-title: Swimming lessons:  the boat
+title: Swimming lessons&colon;  the boat
 date: 2011-12-17 17:00
 categories: [Ashley, Funny, Personal]
 ---
