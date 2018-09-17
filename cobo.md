@@ -3,7 +3,7 @@ layout: page
 title: "Church of Buffett, Orthodox"
 date: 2012-04-11 23:01
 ---
-# Church Of Buffett Creed
+## Church Of Buffett Creed
 
 For those of you who know of the Church of Buffett, Orthodox, here is its creed for which we all should follow. 
 
