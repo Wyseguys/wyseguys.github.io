@@ -21,7 +21,7 @@ __Edit:__ Time D is when he shits in the bushes and is arrested for the night.
 
 **Remainder:** There is one further, final re-entry by myself, with a flashlight. I couldn't get in with my key because the door was messed up, and his sliding door was blocked with a mattress, so I kicked down the door and entered. After a quick walk-through I call the fire department, the landlord, the police, and an ambulance. This is full of drama and will be detailed in its own post.
 
-# The Black Time:
+### The Black Time:
 
 I'm very preoccupied with work and school at this point. Since my point of entry on the house is opposite from the front door, the only real contact I have with Jed at this point is what I can hear from him through the walls, and whatever odor seeps under the door past my homeland security setup. This is pretty tolerable as a condition, definetely worth the $50 a month I was paying for it, but I was starting to get worried. I was worried about Jed's tarantulas getting into the ventilation system, so I sealed that off with plastic wrap and duct tape. Then I started worrying about fire. Jed liked to play with heating elements and flames, and he was an alcoholic, so I was worried that with the sealed off vent I wouldn't know if the house were on fire. At around 3pm, I was studying, when I noticed that my feet were getting wet. Upon inspection, the carpet next to the wall was wet. I went around to the front of the house and found that the door was ajar. I went back to my apartment and picked up a plumber's wrench and a flashlight to see what was wrong.
 
