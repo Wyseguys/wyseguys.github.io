@@ -1,0 +1,9 @@
+---
+layout: post
+title: Christmas 2009 &ndash; approaching the zenith
+date: 2009-12-23 22:24
+author: MrChrister
+comments: true
+categories: [Ashley]
+---
+<p>We have been traveling to and fro, meeting and gathering with our friends and family.  It has been very nice so far.  I am not sure why exactly it is this year, but the entire Christmas season is seeming far less commercial than it usually does.  Perhaps I haven’t been looking, or maybe I don’t go out enough to be buried.  Maybe it is because we don’t have cable tv anymore or possibly because my job is pretty secular.  Whatever it is in the world, perceived, real or otherwise I am happy that it is so.</p>  <p>I have spent a bigger portion of my time worrying about how I can bring everybody together and what music to play at the party than having to hassle with presents and gifts.  Times are tight and less spending is good.  I guess I now understand that giving is still just as important as the getting, and my original plan of no gift exchanges wasn’t so popular as I had hoped.  The upshot being that since this holiday is going so well, who am I to dictate to anybody else how they enjoy it.</p>  <p>Just don’t expect anything from me ‘cause it ain’t comin’</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5418668689359723649%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMH3ib-Vraay1wE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>

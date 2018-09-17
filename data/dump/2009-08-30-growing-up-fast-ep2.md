@@ -1,0 +1,10 @@
+---
+layout: post
+title: Growing Up Fast ep2
+date: 2009-08-30 00:35
+author: MrChrister
+comments: true
+categories: [Ashley]
+---
+<p>Ashley does stuff and there isn't enough for a gallery</p>
+<p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5375656879348134609%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCOXh7uOh6ZffiAE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
