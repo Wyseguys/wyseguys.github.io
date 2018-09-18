@@ -1,6 +1,7 @@
 ---
 title: Great Wolf Lodge 2013
-date: 2013-01-01 00:32
+date: 2013-01-01 00:32:00
+age: 6
 categories: [Ashley, Holiday, Personal, Photos]
 ---
 Once again.  The super-duper-exciting-can't-hardly-wait-every-year-I-am-so-happy-to-go-do-this-adventure-of-charm-that-is-totally-worth-while visit to the Great Wolf lodge for the new year festivities.

@@ -1,6 +1,7 @@
 ---
 title: Hiking At Little Crater Lake
-date: 2012-08-18 14:22
+date: 2012-08-18 14:22:00
+age: 5
 categories: [Ashley, Personal, Photos]
 ---
 We tried to go camping without a reservation.  We should have had a reservation.  Instead we took a little walk near the Little Crater Lake and then camped in the backyard.

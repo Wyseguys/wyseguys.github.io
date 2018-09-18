@@ -1,6 +1,7 @@
 ---
 title: Motion Blur Dancer
-date: 2011-07-23 16:00
+date: 2011-07-23 16:00:00
+age: 4
 categories: [Ashley, Personal]
 ---
 It was hard to get good pictures are Ashley madly danced around our bedroom.

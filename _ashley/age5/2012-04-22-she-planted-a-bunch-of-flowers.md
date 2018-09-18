@@ -1,6 +1,7 @@
 ---
 title: She planted a bunch of flowers.  
-date: 2012-04-22 05:00
+date: 2012-04-22 05:00:00
+age: 5
 categories: [Ashley, Personal, Photos]
 ---
 Watered them too.  Then I made the little one wipe up all the water from the floor.  Mary went bonkers with the plants.

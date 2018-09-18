@@ -1,6 +1,7 @@
 ---
 title: Goodbye Gowah
-date: 2011-12-26 16:48
+date: 2011-12-26 16:48:00
+age: 4
 categories: [Ashley, Funny]
 ---
 What kind of savage animals live in this world?

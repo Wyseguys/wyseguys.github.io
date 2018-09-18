@@ -1,6 +1,7 @@
 ---
 title: July 4th 2012 in the driveway
-date: 2012-07-04 14:17
+date: 2012-07-04 14:17:00
+age: 5
 categories: [Ashley, Personal, Photos]
 ---
 We had a small firework show in the driveway this year.

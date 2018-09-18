@@ -1,6 +1,7 @@
 ---
 title: Swimming lessons&colon;  the boat
-date: 2011-12-17 17:00
+date: 2011-12-17 17:00:00
+age: 4
 categories: [Ashley, Funny, Personal]
 ---
 Ashley is taking swimming lessons.  Today was a big boater safety day, so my plans of getting rid of her in the ocean as crab bait are effectively dashed.

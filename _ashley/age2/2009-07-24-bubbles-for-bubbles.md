@@ -1,6 +1,7 @@
 ---
 title: Bubbles for Bubbles
-date: 2009-07-24 00:00
+date: 2009-07-24 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p>Ashley was taking a bath and playing with the bubbles.</p>

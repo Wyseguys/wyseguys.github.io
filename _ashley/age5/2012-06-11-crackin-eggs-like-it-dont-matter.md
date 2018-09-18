@@ -1,6 +1,7 @@
 ---
 title: Crackin Eggs Like It Don't Matter
-date: 2012-06-11 00:31
+date: 2012-06-11 00:31:00
+age: 5
 categories: [Ashley, Personal, Photos]
 ---
 Ashley is a "wonderful" cook, but the truth is that she can really crack eggs and not get a bunch of shell in the mix.

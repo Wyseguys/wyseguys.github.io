@@ -1,6 +1,7 @@
 ---
 title: "First Time Swimming"
-date: 2009-03-07 01:00
+date: 2009-03-07 01:00:00
+age: 2
 categories: [Ashley]
 tags: []
 ---

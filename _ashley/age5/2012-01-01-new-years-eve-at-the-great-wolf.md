@@ -1,6 +1,7 @@
 ---
 title: New Year's Eve at the Great Wolf
-date: 2012-01-01 16:00
+date: 2012-01-01 16:00:00
+age: 5
 categories: [Ashley, Holiday]
 ---
 The Jennings came with us for a another good time.

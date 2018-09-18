@@ -1,6 +1,7 @@
 ---
 title: Going to the Park with Shades On
-date: 2009-08-23 00:00
+date: 2009-08-23 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p>Ashley knows how to be cool. Mom suggests it is because so many people compliment Ashley on her sunglasses, that Ashley wears them to be an attention hog. Daddy is inclined to agree.</p>

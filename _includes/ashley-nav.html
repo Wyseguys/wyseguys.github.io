@@ -1,30 +1,19 @@
 <div class="subnav-title">The Other Shitty Roommate</div>
 <ul class="nav flex-column nav-pills">
   {% assign sorted = (site.ashley | sort: 'date') %}
-  {% for item in sorted %}
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
-  </li>
+  {% for item in sorted reversed %}
+    {% assign is_header = item.header %}
+    {% if is_header %}
+     <li class="nav-item nav-item-head">
+        <strong><a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a></strong>
+      </li>
+    {% else %}
+      {% if page.age == item.age %}
+        <li class="nav-item nav-item-sub">
+          <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
   {% endfor %}
-</ul>
-<div class="subnav-title">Grouped By Epochs</div>
-<ul class="nav flex-column nav-pills">
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age1" | relative_url }}">Age 1</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age2" | relative_url }}">Age 2</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age3" | relative_url }}">Age 3</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age4" | relative_url }}">Age 4</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age5" | relative_url }}">Age 5</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ "/ashley/age6" | relative_url }}">Age 6</a>
-  </li>
-</ul>
+</ul> 
+</div>

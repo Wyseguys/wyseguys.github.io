@@ -1,6 +1,7 @@
 ---
 title: "Ashley's First Birthday"
-date: 2009-04-04 00:00
+date: 2009-04-04 00:00:00
+age: 2
 categories: [Ashley, Of interest]
 tags: []
 ---

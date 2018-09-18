@@ -1,6 +1,7 @@
 ---
 title: Backyard Sprinkler
-date: 2011-07-03 12:00
+date: 2011-07-03 12:00:00
+age: 4
 categories: [Ashley, Personal]
 ---
 Ashley got a sprinkler for the backyard.  It was party time.

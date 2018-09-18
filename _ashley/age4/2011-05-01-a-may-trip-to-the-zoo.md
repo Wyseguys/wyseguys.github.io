@@ -1,6 +1,7 @@
 ---
 title: A May Trip to the Zoo
-date: 2011-05-01 09:00
+date: 2011-05-01 09:00:00
+age: 4
 categories: [Ashley, Personal]
 ---
 We went to the zoo.  It was May.  There really ins't anything else to say about it.

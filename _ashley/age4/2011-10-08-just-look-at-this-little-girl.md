@@ -1,6 +1,7 @@
 ---
 title: Just look at this little girl
-date: 2011-10-08 16:00
+date: 2011-10-08 16:00:00
+age: 4
 categories: [Ashley, Funny, Personal]
 ---
 Just, look at her!

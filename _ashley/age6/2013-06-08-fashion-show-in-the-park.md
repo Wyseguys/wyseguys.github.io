@@ -1,6 +1,7 @@
 ---
 title: Fashion Show in the Park
-date: 2013-06-08 20:05
+date: 2013-06-08 20:05:00
+age: 6
 categories: [dunno]
 ---
 Mom and Auntie took Ashley to do a fashion shoot at the park.  As you can see the attitude was out just as brightly as the sun.

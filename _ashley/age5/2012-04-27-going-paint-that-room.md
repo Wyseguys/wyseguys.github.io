@@ -1,6 +1,7 @@
 ---
 title: Going Paint That Room
-date: 2012-04-27 21:13
+date: 2012-04-27 21:13:00
+age: 5
 categories: [Ashley, Photos]
 ---
 So the plan is to let Miss Ashley paint her room.  She gets to pick the colors (purple and pink, with a blue for me and mom) and decide where those colors go.  Bubbles has also determined that her nightstand is to be painted yellow.  I am afraid for that choice, but c'est la vie.

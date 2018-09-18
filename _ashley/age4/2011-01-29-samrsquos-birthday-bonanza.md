@@ -1,6 +1,7 @@
 ---
 title: Sam's Birthday Bonanza
-date: 2011-01-29 14:46
+date: 2011-01-29 14:46:00
+age: 4
 categories: [Home]
 ---
 Ashley went to Sam's birthday in Salem.  At the end of the night she got a special gift from Grandpa.  Two handmade rocking chairs for her dolls and babies.

@@ -1,6 +1,7 @@
 ---
 title: Such a face
-date: 2011-05-21 11:00
+date: 2011-05-21 11:00:00
+age: 4
 categories: [Ashley, Funny]
 ---
 She can turn it on and off as needed.  How much trouble I will be in as she gets into her teens.

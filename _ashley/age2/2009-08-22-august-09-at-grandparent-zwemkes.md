@@ -1,6 +1,7 @@
 ---
 title: August 09 At Grandparent Zwemkes
-date: 2009-08-22 00:00
+date: 2009-08-22 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p>Ashley and the family went to visit Grandparent Zwemke in Salem on a nice afternoon. We had a barbeque and Ashley played in the water and with her pretty necklaces.</p>

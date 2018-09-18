@@ -1,6 +1,7 @@
 ---
 title: Once Again, A Sick Day
-date: 2012-04-11 16:22
+date: 2012-04-11 16:22:00
+age: 5
 categories: [Ashley]
 ---
 <a href="https://picasaweb.google.com/108001626876662627571/SickDay02?authkey=Gv1sRgCNvep569wYKiWg">https://picasaweb.google.com/108001626876662627571/SickDay02?&amp;authkey=Gv1sRgCNvep569wYKiWg</a>

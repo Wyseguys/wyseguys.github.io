@@ -1,6 +1,7 @@
 ---
 title: Swine Flu Showdown&colon; 2009 baby vs Science
-date: 2009-12-15 23:38
+date: 2009-12-15 23:38:00
+age: 2
 categories: [Ashley]
 ---
 Ashley got into a fight with the swine flu.  The sign on the door at her daycare one Thursday night claimed that at least two kids were infected with a case of the porky plague, and of them was in her room.  The room teachers were valiantly cleaning and sanitizing the room as I entered that evening, but bless there hearts there was no stopping it.  Mary and I did wonder aloud (half joking half serious) what it would be like.

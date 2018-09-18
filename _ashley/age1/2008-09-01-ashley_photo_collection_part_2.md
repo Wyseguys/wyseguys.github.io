@@ -1,7 +1,8 @@
 ---
 title: "Ashley Photo Collection part 2"
-date: 2008-09-01 00:01
-categories: [Ashley, Personal]
+date: 2008-09-01 00:00:00
+age: 1
+tags: [age1]
 ---
 <table border="0" cellspacing="0" cellpadding="4">
 <tbody>

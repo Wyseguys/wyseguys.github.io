@@ -1,6 +1,7 @@
 ---
-title: Birthday &#354 at home
-date: 2012-03-24 16:30
+title: Birthday 4 at home
+date: 2012-03-24 16:30:00
+age: 5
 categories: [Ashley, Personal]
 ---
 We had a prefunk gathering of close friends and family at the homestead.  The trains were in full effect, and the family was all crowded around a table showering The Daughter with more presents than I suppose a kid ought to have.

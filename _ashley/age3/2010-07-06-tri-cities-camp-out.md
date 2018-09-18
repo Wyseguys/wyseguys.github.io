@@ -1,6 +1,7 @@
 ---
 title: Tri-cities Camp Out
-date: 2010-07-06 01:45
+date: 2010-07-06 01:45:00
+age: 3
 categories: [Holiday, Personal, Photos]
 ---
 Why Fish Lake campground, run by the Army Corp of Engineers, is a good place to go camp and spend the night.

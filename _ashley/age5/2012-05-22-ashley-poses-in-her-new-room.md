@@ -1,6 +1,7 @@
 ---
 title: Ashley Poses in Her New Room
-date: 2012-05-22 20:49
+date: 2012-05-22 20:49:00
+age: 5
 categories: [Ashley, Personal, Photos]
 ---
 Here is Ashley with the final touches on her new room. What a lucky kid.

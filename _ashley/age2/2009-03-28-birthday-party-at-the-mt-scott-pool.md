@@ -1,6 +1,7 @@
 ---
 title: "Birthday Party At the Mt Scott Pool"
-date: 2009-03-28 20:02
+date: 2009-03-28 20:02:00
+age: 2
 categories: [Ashley, Personal, Videos]
 tags: []
 ---

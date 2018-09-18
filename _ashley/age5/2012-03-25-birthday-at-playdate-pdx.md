@@ -1,6 +1,7 @@
 ---
 title: Birthday at Playdate PDX
-date: 2012-03-25 16:30
+date: 2012-03-25 16:30:00
+age: 5
 categories: [Ashley, Funny]
 ---
 It was a nice party and we were very glad so many of Ashley's good friends were able to show up.  We played pretty hard in the over-sized play tubes.  Like a Super Mario game with more screaming and less music.

@@ -1,6 +1,7 @@
 ---
 title: New Dollhouse from the Toothmans
-date: 2011-09-08 13:00
+date: 2011-09-08 13:00:00
+age: 4
 categories: [Ashley, Personal]
 ---
 Great Grandma and Granddad Toothman sent over the doll house that Ashley had fallen in love with during her visits.  We have other boxes of stuff that we can doll out surely but slowly.

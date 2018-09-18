@@ -1,6 +1,7 @@
 ---
 title: Ice Skating at the Lloyd Center
-date: 2011-12-11 14:00
+date: 2011-12-11 14:00:00
+age: 4
 categories: [Ashley]
 ---
 MY FEET WERE ON BLOODY FIRE, THEY SCABBED OVER AND WERE STUCK IN ICE SKATE RENTALS THAT WERE CLEARLY FILLED WITH SALT AND EVIL.

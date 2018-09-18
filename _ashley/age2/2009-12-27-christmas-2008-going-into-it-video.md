@@ -1,6 +1,7 @@
 ---
 title: Christmas 2008 - going into it video
-date: 2009-12-27 01:00
+date: 2009-12-27 01:00:00
+age: 2
 categories: [Ashley, Home, Videos]
 ---
 <p>Christmas 2008 was Ashley’s first and we tried to start a family tradition.  The plan was to have Christmas Eve at home, travel to Salem and spend Christmas day with the family.  Well, Snowpacolypse got in the way.  The snow came down hard and heavy for many days.  Instead of having a nice evening in front of a fire, we had to bust open the presents at the drop of a dime at 2:30 in the afternoon.  The news said it would be warming up and raining, and we didn’t wait around.</p>

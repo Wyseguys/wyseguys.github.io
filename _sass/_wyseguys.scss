@@ -20,6 +20,9 @@
 .nav-pills .nav-link.active {
     background-color: $gray-800;
 }
+.nav-pills .nav-item-head {
+    font-size: 1.2em;
+}
 
 blockquote {
     border-left: 3px solid $gray-500;

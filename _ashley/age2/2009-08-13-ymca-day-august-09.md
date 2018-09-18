@@ -1,6 +1,7 @@
 ---
 title: YMCA Day August 09
-date: 2009-08-13 00:00
+date: 2009-08-13 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p>The YMCA had a family picnic and we only stayed for a little while. After the picnic we went to the Jennings' home to celebrate Micah's birthday.</p>

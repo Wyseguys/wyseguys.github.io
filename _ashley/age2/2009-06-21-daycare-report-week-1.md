@@ -1,6 +1,7 @@
 ---
 title: Daycare Report&colon;  Week 1
-date: 2009-06-21 00:00
+date: 2009-06-21 00:00:00
+age: 2
 categories: [Ashley]
 ---
 For the week of 6-15-2009 through 6-19-2009 was Ashley's biggest week ever.  We had the departure of a long time companion and favorite baby sitting Aunt Tylee.  Ashley and Tylee were tight like tigers, and we are sure that Ashley will miss her Aunt lots.  Tylee was great the short time we had with her, and Mary and Chris will miss her as well.  But it is a new beginning for Tylee in California and the whole family wishes her the best and we know she will make the most of the opportunities in front of her.  Say bye bye Aunt Tylee.  Bye bye.

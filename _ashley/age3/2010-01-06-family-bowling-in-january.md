@@ -1,6 +1,7 @@
 ---
 title: Family Bowling in January
-date: 2010-01-06 01:00
+date: 2010-01-06 01:00:00
+age: 3
 categories: [Ashley]
 ---
 <p>The family and friends took a new years trip to the bowling lanes.  </p>

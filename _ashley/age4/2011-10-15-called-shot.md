@@ -1,6 +1,7 @@
 ---
 title: Called Shot
-date: 2011-10-15 15:00
+date: 2011-10-15 15:00:00
+age: 4
 categories: [Ashley, Funny, Holiday]
 ---
 So we go to this big resort thing that we got as a Wedding gift.  (More than a year later).  We had a lovely time but that is hardly the point.  What we did do was go outside for a walk on a little fitness trail they have surrounding the property.  Ashley did great.

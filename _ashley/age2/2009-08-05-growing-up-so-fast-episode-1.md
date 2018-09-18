@@ -1,6 +1,7 @@
 ---
 title: Growing up so fast, episode 1
-date: 2009-08-05 00:00
+date: 2009-08-05 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p> Ashley is growing up so fast. Here is a quick montage of the things that Ashley has been doing around the house. Having some teddybear pancakes, walking in Dad's shoes, learning how to shave, looking cool with her sunglasses and other awesome stuff.</p>

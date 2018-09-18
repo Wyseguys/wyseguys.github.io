@@ -1,6 +1,7 @@
 ---
 title: Ashley and Daddy Sick Day
-date: 2009-08-14 00:00
+date: 2009-08-14 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p>Ashley and Daddy stayed home together because they were both sick. It wasn't a great day for anybody.</p>

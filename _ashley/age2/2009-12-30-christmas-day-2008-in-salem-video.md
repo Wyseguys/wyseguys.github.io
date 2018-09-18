@@ -1,6 +1,7 @@
 ---
 title: Christmas Day 2008 In Salem video
-date: 2009-12-30 21:27
+date: 2009-12-30 21:27:00
+age: 2
 categories: [Ashley, Home, Videos]
 ---
 Christmas 2008 was in Salem and saw the introduction of the Rocking Cow.  Ashley was not impressed with the whole ordeal, but she wasn’t particularly upset with it either.  It was a real take it or leave it day, but her cousins had a ton of fun.

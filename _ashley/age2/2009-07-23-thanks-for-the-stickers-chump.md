@@ -1,6 +1,7 @@
 ---
 title: Thanks for the stickers chump
-date: 2009-07-23 00:00
+date: 2009-07-23 00:00:00
+age: 2
 categories: [Ashley]
 ---
 <p> Free stickers in the mail</p>

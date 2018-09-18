@@ -1,6 +1,7 @@
 ---
 title: First Sleep Over
-date: 2013-04-26 14:31
+date: 2013-04-26 14:31:00
+age: 6
 categories: [Ashley, Funny, Personal, Photos]
 ---
 Ashley's friend from school came over and we had the first sleep over

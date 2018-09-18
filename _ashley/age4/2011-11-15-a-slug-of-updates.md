@@ -1,6 +1,7 @@
 ---
 title: A slug of updates
-date: 2011-11-15 16:00
+date: 2011-11-15 16:00:00
+age: 4
 categories: [Ashley, Funny, Personal]
 ---
 Ashley was sick, and the dumbest cat in the house was on point.
