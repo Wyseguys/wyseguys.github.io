@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+What is more important.  Putting my opinion on the internet or finding a cheap hosting solution and practice on SASS from time to time.
+
+<hr />
