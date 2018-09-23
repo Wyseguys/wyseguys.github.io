@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /_private/
+Disallow: /bin/
+Disallow: /cgi-bin/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /log/
+Disallow: /controlpanel/
+Disallow: /data/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /logs/
+Disallow: /blog/Admin/
+Disallow: /blog/HostAdmin/
+Disallow: /lr/
+Disallow: /lr-gone/
