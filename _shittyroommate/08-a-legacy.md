@@ -1,7 +1,7 @@
 ---
 title: A Legacy
 date: 2012-04-11 15:37
-permalink: shitty-roommate/a-legacy/
+permalink: blag/shitty-roommate/a-legacy/
 ---
 
 >**monkeytoucher came out of the closet to say:**

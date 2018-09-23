@@ -1,7 +1,7 @@
 ---
 title: Meet Jed
 date: 2012-04-11 14:36
-permalink: shitty-roommate/meet-jed/
+permalink: blag/shitty-roommate/meet-jed/
 ---
 
 ![the lasagne]({{ "/assets/images/shitty/lasagne_sm.jpg" | absolute_url }})

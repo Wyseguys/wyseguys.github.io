@@ -1,7 +1,7 @@
 ---
 title: Feces
 date: 2012-04-11 15:03
-permalink: shitty-roommate/feces/
+permalink: blag/shitty-roommate/feces/
 ---
 
 >**Shokan came out of the closet to say:**

@@ -1,7 +1,7 @@
 ---
 title: Two Versions
 date: 2012-04-11 15:35
-permalink: shitty-roommate/two-versions/
+permalink: blag/shitty-roommate/two-versions/
 ---
 
 >**ReidRansom came out of the closet to say:**

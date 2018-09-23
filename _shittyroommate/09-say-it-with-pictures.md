@@ -1,7 +1,7 @@
 ---
 title: Say it with pictures
 date: 2012-04-11 15:38
-permalink: shitty-roommate/say-it-with-pictures/
+permalink: blag/shitty-roommate/say-it-with-pictures/
 ---
 
 >**Shii Says:**

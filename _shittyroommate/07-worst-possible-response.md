@@ -1,7 +1,7 @@
 ---
 title: Worst Possible Response
 date: 2012-04-11 15:36
-permalink: shitty-roommate/worst-possible-response/
+permalink: blag/shitty-roommate/worst-possible-response/
 ---
 
 >**kotau came out of the closet to say:**

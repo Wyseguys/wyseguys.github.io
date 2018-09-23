@@ -1,7 +1,7 @@
 ---
 title: Re-entry
 date: 2012-04-11 15:34
-permalink: shitty-roommate/reentry/
+permalink: blag/shitty-roommate/reentry/
 ---
 
 The apartment was completely silent by this point. All I could hear was some kind of dull tubal thumping from inside the place, that same dull bass noise I heard earlier. Remembering my crack training at counterstrike, instead of going further in, I limped over to the kitchen area and flung shit around to make sure that nobody was hiding under the newspapers. I could see that he had gotten a lot more crap since the last time I was here. There were mason jars of urine in the kitchen, along with gallon jugs of the stuff. There were a lot of things he had obviously stolen from longs drugs. There was a crate of sour patch kids all over the place. On one wall was a poster of homer simpson naked drinking beer, and a bunch of knives had been stabbed into it. I was too angered and pumped up to be frightened. I opened the refridgerator and stomped the shelves apart while I was at it, just to be sure he wasn't hiding in there.

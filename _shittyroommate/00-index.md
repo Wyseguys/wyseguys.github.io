@@ -1,7 +1,7 @@
 ---
 title: Intro
 date: 2012-04-11 14:00
-permalink: shitty-roommate/
+permalink: blag/shitty-roommate/
 ---
 
 **NOTE**  This story is not mine.  The original content belongs to a fella by the name of *Martin Random*.  This story is saved from a [thread on www.somethingawful.com](http://forums.somethingawful.com/showthread.php?threadid=1353420) and all credit for it should belong to the respective creators.  I did my best to credit all artists and writers, but since I did this in my spare time at work, I certainly could have missed something.  I will happily adjust the page to reflect credit where credit is due.  Please enjoy.

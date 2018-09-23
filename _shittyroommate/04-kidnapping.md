@@ -1,7 +1,7 @@
 ---
 title: The Kidnapping
 date: 2012-04-11 15:21
-permalink: shitty-roommate/kidnapping/
+permalink: blag/shitty-roommate/kidnapping/
 ---
 
 Let’s get this over with.

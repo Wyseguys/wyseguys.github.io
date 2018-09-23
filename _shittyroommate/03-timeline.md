@@ -1,7 +1,7 @@
 ---
 title: Timeline
 date: 2012-04-11 15:11
-permalink: shitty-roommate/timeline/
+permalink: blag/shitty-roommate/timeline/
 ---
 
 
