@@ -2,7 +2,7 @@
 title: Silver Creek Falls Hike
 date: 2013-08-24 13:16
 age: 6
-categories: [Ashley, Holiday, Personal, Photos]
+categories: [Ashley]
 ---
 Not only did Mom make Dad hike 4+ miles around the many falls in Silver Creek Falls  State Park; she made Ashley walk the entire amount too! Not without much griping and gnashing of teeth.
 
