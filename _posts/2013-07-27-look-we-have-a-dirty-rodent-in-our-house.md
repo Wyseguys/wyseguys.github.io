@@ -2,9 +2,7 @@
 
 title: Look.  We have a dirty rodent in our house!
 date: 2013-07-27 13:05
-
-
-categories: [dunno]
+categories: [Funny]
 ---
 Oh good.  Nothing like a filthy rabbit in our home to play hacky sack with his little mini turds.
 

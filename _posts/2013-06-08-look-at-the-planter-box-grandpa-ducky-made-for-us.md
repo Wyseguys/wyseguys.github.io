@@ -1,7 +1,7 @@
 ---
 title: Look at the planter box Grandpa Ducky made for us
 date: 2013-06-08 20:38
-categories: [dunno]
+categories: [Personal]
 ---
 Mom had the idea.  Dad had the car, the tape measure and he knew where Lowes was.  Most importantly, he had a method of payment.
 

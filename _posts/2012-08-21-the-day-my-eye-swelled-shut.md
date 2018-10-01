@@ -1,7 +1,7 @@
 ---
 title: The Day My Eye Swelled Shut
 date: 2012-08-21 14:23
-categories: [Personal, Photos]
+categories: [Personal]
 ---
 I rubbed my eye in the car on the way to work.  By the time I got there I could barely see.  The eye doctor said it was just an allergy.
 

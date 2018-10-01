@@ -8,6 +8,6 @@ tags: []
 
 All the pages are pretty clean. I still need to fight the middle ones to get them to validate, but other than that I am golden. It irks me that I can't figure out how to get the Google javascript to validate. I probably need to go back through the site and get into XHTML*.
  
-I don't want to redo the whole site again. You readers need to click some links.&nbsp; C'mon Google agreed to pay me if you look at these ads for water damage repair.
+I don't want to redo the whole site again. You readers need to click some links. C'mon Google agreed to pay me if you look at these ads for water damage repair.
  
-*Just kidding.&nbsp; XHTML is the holy chalice, it doesn't really exist.
+*Just kidding. XHTML is the holy chalice, it doesn't really exist.
