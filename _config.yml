@@ -54,6 +54,7 @@ defaults:
     values:
       layout: "post"
       author: "MrChrister"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
@@ -62,6 +63,7 @@ defaults:
       layout: "ashley"
       collection-title: "The Secret-ish Blug"
       sitemap: false
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
@@ -70,24 +72,28 @@ defaults:
       layout: "shitty"
       collection-title: "Shitty Roommate"
       attribution: "By Martin Random"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
       type: "wayne"
     values:
       layout: "wayne"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
       type: "computer"
     values:
       layout: "computer"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
       type: "dictionary"
     values:
       layout: "dictionary"
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
@@ -95,14 +101,16 @@ defaults:
     values:
       layout: ""
       sitemap: false
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
       type: "inmypants"
     values:
-      layout: "default"
+      layout: "inmypants"
       attribution: "From the mind of WCRTZJB"
       sitemap: false
+      excerpt_separator: <!--more-->
 
 
 # Build settings

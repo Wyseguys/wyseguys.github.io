@@ -6,13 +6,19 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
+      {% if page.tags %}
+        <div class="post-meta float-right">
+            <strong>tags</strong> - <span itemprop="tags" itemscope itemtype="http://schema.org/keywords"><span itemprop="name">{{ page.tags | join: ", " }}</span></span>
+        </div>
+      {% endif %}
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
+      {% endif %}
+      </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">

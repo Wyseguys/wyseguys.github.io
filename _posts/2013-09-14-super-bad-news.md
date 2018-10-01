@@ -2,10 +2,13 @@
 title: Super Bad News!
 date: 2013-09-14 13:04
 categories: [Funny]
+tags: [h*ck, small-favors, kicked-in-the-science]
 ---
 As I have learned from my father, (who is a great father) I try to be super involved with my kid. I have done my best to emulate what my dad did for me.  Always being around, doing things I don't want to do because my kid does want to do it.  I am, (I guess we are), statistically speaking, in the lower end of testicle size.
 
 [http://arstechnica.com/science/2013/09/size-may-matter-at-least-when-it-comes-to-parenting/](http://arstechnica.com/science/2013/09/size-may-matter-at-least-when-it-comes-to-parenting/)
+
+<!--more-->
 
  > From a biological perspective, life is all about passing on one’s genes, and there are different ways to do that; one way is to invest heavily in a few precious offspring to make sure they survive, while another is to invest a whole lot of time and energy in mating and hope something pans out. Do human males exhibit this tradeoff? To address this question, the Emory researchers turned to testicles.
  > 
