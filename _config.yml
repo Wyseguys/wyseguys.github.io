@@ -42,6 +42,8 @@ collections:
     output: true
   inmypants:
     output: true
+  zenjefe:
+    output: true
 
 
 defaults:
@@ -88,7 +90,7 @@ defaults:
       layout: "dictionary"
   -
     scope:
-      path: "/zenjefe/*"
+      path: ""
       type: "zenjefe"
     values:
       layout: ""
@@ -98,7 +100,7 @@ defaults:
       path: ""
       type: "inmypants"
     values:
-      layout: "inmypants"
+      layout: "default"
       attribution: "From the mind of WCRTZJB"
       sitemap: false
 
