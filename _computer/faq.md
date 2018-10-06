@@ -9,7 +9,9 @@ page: 40
 
  - **Fix or build your broken computer?**  I have no idea.
  - **In home service?**  I have no idea.
- - **Website Providers?** <a href="http://www.winhost.com/" target="_blank">WinHost.</a>They are the company hosting my website.  I use Google Apps For Your Domain for my email.  GoDaddy is probably evil, so I use NameCheap for my domains.  Pretty much anybody is probably evil.  I am evil.
+ - **Website Providers?** <a href="http://www.winhost.com/" target="_blank">WinHost.</a>They were the company hosting my website when I thought enough of it to pay.  Now I am using GitHub.io.  A careful examination of this very page will indicate the entirety of how that is done.  I have also use SquareSpace for a customer when it was more important to have a pretty website than it was to do things cheaply.  
+ 
+ I use Google Apps For Your Domain for my email.  GoDaddy is probably evil, so I use NameCheap for my domains.  Pretty much anybody is probably evil.  I am evil.
  - **Web Design, eCommerce?**  I recommend you don't do such a silly thing.  I guess the Amazon marketplace.
 
 ### How do I contact Wyse Guys to fix my PC?

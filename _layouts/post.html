@@ -1,28 +1,51 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {% if page.tags %}
-        <div class="post-meta float-right">
-            <strong>tags</strong> - <span itemprop="tags" itemscope itemtype="http://schema.org/keywords"><span itemprop="name">{{ page.tags | join: ", " }}</span></span>
-        </div>
-      {% endif %}
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}
-      </p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting"></article>
+  <div class="row">
+    <div class="col-lg-12">
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="post-meta">
+          {% if page.tags %}
+            <div class="post-meta float-right">
+                <strong>tags</strong> - <span itemprop="tags" itemscope itemtype="http://schema.org/keywords"><span itemprop="name">{{ page.tags | join: ", " }}</span></span>
+            </div>
+          {% endif %}
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {{ page.date | date: date_format }}
+          </time>
+          {% if page.author %}
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+          {% endif %}
+          </p>
+      </header>
+    </div>
   </div>
-
+  <div class="row">
+    <div class="col-lg-9">
+      <div class="post-content" itemprop="articleBody">
+          {{ content }}
+        </div>
+    </div>
+    <div class="col-lg-3 related-posts">
+      {% assign page_main_category = page.categories[0] %}
+        {% unless page_main_category == null %}
+          {% unless site.categories[page_main_category].size <= 1 %}
+            <h2 class="subnav-title">Other {{ page_main_category }} Posts</h2>
+            <ul class="nav flex-column nav-pills">
+              {% for item in site.categories[page_main_category] limit:10 %}
+                {% if item.url != page.url %}
+                  <li class="nav-item">
+                    <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          {% endunless %}
+        {% endunless %}
+    </div>
+  </div>
 </article>

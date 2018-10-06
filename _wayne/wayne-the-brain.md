@@ -1,5 +1,5 @@
 ---
-title: "Wayne The Brain"
+title: "A brief introduction"
 date: 2012-04-11 23:17
 ---
 

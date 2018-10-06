@@ -85,6 +85,7 @@ defaults:
       type: "wayne"
     values:
       layout: "subnav"
+      collection-title: "Wayne the Brain"
       excerpt_separator: <!--more-->
       subnav: "nav-wayne.html"
       show_date: false
@@ -95,6 +96,7 @@ defaults:
       type: "computer"
     values:
       layout: "subnav"
+      collection-title: "WyseGuys Computer"
       excerpt_separator: <!--more-->
       subnav: "nav-computer.html"
       show_date: false
@@ -105,6 +107,7 @@ defaults:
       type: "dictionary"
     values:
       layout: "subnav"
+      collection-title: "Suburban Dictionary"
       excerpt_separator: <!--more-->
       subnav: "nav-dictionary.html"
       show_date: false

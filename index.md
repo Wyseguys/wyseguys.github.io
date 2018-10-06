@@ -16,9 +16,9 @@ layout: default
       <div class="col-lg-4">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h4>
+        <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h4>
+        </h3>
         <p>{{ post.excerpt }}</p>
       </div>
     {% endfor %}

@@ -13,6 +13,10 @@ $secondary-color:rgba(240, 235, 235, 0.5);
     text-decoration: underline;
 }
 
+header nav div {
+    font-size: 2em;
+}
+
 .footer{
     background-color:$secondary-color;
     margin: 100px 0 0 0;
@@ -30,6 +34,10 @@ blockquote {
     border-left: 3px solid $gray-500;
     margin: 10px 2em;
     padding: 0 0 0 1em;
+}
+
+.related-posts {
+ background-color: $secondary-color;
 }
 
 img.wyseguys-album {
