@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-lg-12">
+    <h1 class="post-title">{{ page.collection-title | escape }}</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-9">
+      <h1>{{ page.title | escape }}</h1>
+      <p class="post-meta">
+        {% if page.show_date == true %}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          {{ page.date | date: date_format }}
+        </time>
+        {% endif %}</p>
+        {% if page.author %}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+        {% endif %}</p>
+      <div class="post-content">
+        {{ content }}
+      </div>
+      {% if page.show_nextprev == true %}
+      <div class="row justify-content-lg-center">
+        <div class="col-lg-3">
+            <nav aria-label="Page navigation">
+            <ul class="pagination">
+                {% if page.previous != nil %}
+                <li class="page-item"><a class="page-link" href="{{ page.previous.url }}">Previous</a></li>
+                {% endif %}
+                {% if page.next != nil %}
+                <li class="page-item"><a class="page-link" href="{{ page.next.url }}">Next</a></li>
+                {% endif %}
+            </ul>
+            </nav>
+        </div>
+      </div>
+      {% endif %}
+
+  </div>
+  <div class="col-lg-3">
+    {% include {{ page.subnav }} %}
+  </div>
+</div>

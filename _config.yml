@@ -58,50 +58,67 @@ defaults:
   -
     scope:
       path: ""
-      type: "ashley" # previously `post` in Jekyll 2.2.
+      type: "ashley" 
     values:
-      layout: "ashley"
+      layout: "subnav"
       collection-title: "The Secret-ish Blug"
       sitemap: false
       excerpt_separator: <!--more-->
+      subnav: "nav-ashley.html"
+      show_date: true
+      show_nextprev: false
   -
     scope:
       path: ""
       type: "shittyroommate"
     values:
-      layout: "shitty"
+      layout: "subnav"
       collection-title: "Shitty Roommate"
       attribution: "By Martin Random"
       excerpt_separator: <!--more-->
+      subnav: "nav-shitty.html"
+      show_date: false
+      show_nextprev: true
   -
     scope:
       path: ""
       type: "wayne"
     values:
-      layout: "wayne"
+      layout: "subnav"
       excerpt_separator: <!--more-->
+      subnav: "nav-wayne.html"
+      show_date: false
+      show_nextprev: false
   -
     scope:
       path: ""
       type: "computer"
     values:
-      layout: "computer"
+      layout: "subnav"
       excerpt_separator: <!--more-->
+      subnav: "nav-computer.html"
+      show_date: false
+      show_nextprev: false
   -
     scope:
       path: ""
       type: "dictionary"
     values:
-      layout: "dictionary"
+      layout: "subnav"
       excerpt_separator: <!--more-->
+      subnav: "nav-dictionary.html"
+      show_date: false
+      show_nextprev: true
   -
     scope:
       path: ""
       type: "zenjefe"
     values:
-      layout: ""
+      layout: "page"
       sitemap: false
       excerpt_separator: <!--more-->
+      show_date: false
+      show_nextprev: false
   -
     scope:
       path: ""
@@ -111,6 +128,8 @@ defaults:
       attribution: "From the mind of WCRTZJB"
       sitemap: false
       excerpt_separator: <!--more-->
+      show_date: false
+      show_nextprev: false
 
 
 # Build settings

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Zen Jeff"
 date: 2013-01-01 00:00:00
 ---
