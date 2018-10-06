@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Be Nice"
+date: 2018-10-05 01:38
+---
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

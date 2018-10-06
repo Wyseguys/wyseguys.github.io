@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Contributing Guidelines"
+date: 2018-10-05 01:38
+---
 This site serves two purposes:
 
 First, so I can learn and practice what I think is the most helpful for my day job.  I want to learn, maybe not the bleeding edge, but definitely keeping modern.
