@@ -5,16 +5,19 @@ title: My Blag
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-      <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = post.minima.date_format | default: "%b %-d, %Y" %}
-        {{ post.date | date: date_format }}
-      </time>
-    <span>by {{ post.author }}</span>
-  </p>
-  <div class="content">
-    {{ post.excerpt }}
+  <div class="blag-excerpt">
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="author">
+        <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign date_format = post.minima.date_format | default: "%b %-d, %Y" %}
+          {{ post.date | date: date_format }}
+        </time>
+      <span>by {{ post.author }}</span>
+    </p>
+    <div class="content">
+      {{ post.excerpt }}
+    </div>
+    <hr />
   </div>
 {% endfor %}
 
