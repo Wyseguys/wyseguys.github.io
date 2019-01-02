@@ -3,7 +3,10 @@
   {% assign sorted = (site.dictionary | sort: 'page, title') %}
   {% for item in sorted %}
   <li class="nav-item">
-      <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
   </li>
   {% endfor %}
 </ul>
+<div class="well">
+  {% include google-adsense-bottomnav.html %}
+</div>
