@@ -34,12 +34,12 @@ date: 2017-11-04
 <div class="row">
     <div class="col-lg-4">
         <div class="card">
-        <div class="card-body">
-            <h4 class="card-title">Wayne The Brain</h4>
-            <h6 class="card-subtitle mb-2 text-muted">The dumbest thing I've done</h6>
-            <p class="card-text">Back when I was young and thought I was funny, my chums and I did some harmless pranks in the feedback box at out school's lunch hall.</p>
-            <a href="{{ site.baseurl }}{% link _wayne/wayne-the-brain.md %}" class="card-link">Read about more dumb</a>
-        </div>
+            <div class="card-body">
+                <h4 class="card-title">Wayne The Brain</h4>
+                <h6 class="card-subtitle mb-2 text-muted">The dumbest thing I've done</h6>
+                <p class="card-text">Back when I was young and thought I was funny, my chums and I did some harmless pranks in the feedback box at out school's lunch hall.</p>
+                <a href="{{ site.baseurl }}{% link _wayne/wayne-the-brain.md %}" class="card-link">Read about more dumb</a>
+            </div>
         </div>
     </div>
 
@@ -65,4 +65,12 @@ date: 2017-11-04
         </div>
     </div>
 
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="well">
+            <h3 class="ad">Support This Page By Ignoring These Ads</h3>
+            {% include google-adsense-bottompage.html %}
+        </div>
+    </div>
 </div>

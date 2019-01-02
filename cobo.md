@@ -28,3 +28,12 @@ For those of you who know of the Church of Buffett, Orthodox, here is its creed 
 Well, that about does it. It's the easiest church to join: just say a couple of Hail Bloody Marys, and you're in. Disenchanted Parrot Heads are welcome; after all, even Martin Luther was a disenchanted Rome Head. 
 
 Special thanks to Bruce Gilbert, patron saint of the Landlocked Diocese, for putting our beliefs on paper.
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="well">
+            <h3 class="ad">Support This Page By Ignoring These Ads</h3>
+            {% include google-adsense-bottompage.html %}
+        </div>
+    </div>
+</div>

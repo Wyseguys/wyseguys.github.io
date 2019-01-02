@@ -44,6 +44,18 @@ img.wyseguys-album {
     max-height: 300px;
 }
 
+.well {
+    margin: 10px 0 0 0;
+    background-color: #f2f2f2ea;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #000;
+    h3.ad {
+        font-size: .8em;
+        border: 1px 0 1px 0 solid #010100;
+    }
+}
+
 @import 
   "inmypants",
   "blag"
