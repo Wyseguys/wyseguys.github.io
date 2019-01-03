@@ -16,4 +16,4 @@ Ashley's friend from school came over and we had the first sleep over
 	<li>We dropped the friend off at 1:00PM</li>
 	<li>Ashley went to sleep so hard that she couldn't be shaken awake</li>
 </ul>
-[pe2-gallery album="http://picasaweb.google.com/data/feed/base/user/108001626876662627571/albumid/5872515125737644001?alt=rss&amp;hl=en_US&amp;kind=photo" ]
+[<img src="https://photos.google.com/album/AF1QipP4K7UtMuzQtY6cCDKBgkkAKbH7atTLP1Rb20dG/photo/AF1QipP2vqAup1EAW5Ldas-EKMOoXdCVYHDq4pksAi3U" alt="Ashley and her chum ready for a night of sleeping" class="wyseguys-album"/>](https://photos.google.com/album/AF1QipP4K7UtMuzQtY6cCDKBgkkAKbH7atTLP1Rb20dG)

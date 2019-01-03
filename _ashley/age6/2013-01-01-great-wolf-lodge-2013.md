@@ -6,4 +6,4 @@ categories: [Ashley, Holiday, Personal, Photos]
 ---
 Once again.  The super-duper-exciting-can't-hardly-wait-every-year-I-am-so-happy-to-go-do-this-adventure-of-charm-that-is-totally-worth-while visit to the Great Wolf lodge for the new year festivities.
 
-[pe2-gallery album="http://picasaweb.google.com/data/feed/base/user/108001626876662627571/albumid/5884955701601464801?alt=rss&amp;hl=en_US&amp;kind=photo" ]
+[<img src="https://photos.google.com/album/AF1QipPIStZNHeCaOTI_Khk-0HmeU_jiO3CuyFCMKBtf/photo/AF1QipO5A7NoWI_uLfE6pPpyip86Y1VivgNj2t0YdfkJ" alt="Little Ashley riding in a car or something" class="wyseguys-album"/>](https://photos.google.com/album/AF1QipPIStZNHeCaOTI_Khk-0HmeU_jiO3CuyFCMKBtf)
