@@ -1,6 +1,6 @@
 <h2 class="subnav-title">Words or Phrases</h2>
 <ul class="nav flex-column nav-pills">
-  {% assign sorted = (site.dictionary | sort: 'page, title') %}
+  {% assign sorted = (site.dictionary | sort: "rank") %}
   {% for item in sorted %}
   <li class="nav-item">
     <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>

@@ -112,6 +112,7 @@ defaults:
       subnav: "nav-dictionary.html"
       show_date: false
       show_nextprev: true
+      rank: 0
   -
     scope:
       path: ""
@@ -142,6 +143,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+
+sass:
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
