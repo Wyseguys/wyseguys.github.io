@@ -17,6 +17,12 @@ header nav div {
     font-size: 2em;
 }
 
+main {
+    h1,h2,h3,h4,h5,h6 {
+        font-family: 'Happy Monkey', cursive;
+    }
+}
+
 .footer{
     background-color:$secondary-color;
     margin: 100px 0 0 0;
