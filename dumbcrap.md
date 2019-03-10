@@ -5,22 +5,11 @@ date: 2017-11-04
 ---
 <div class="row">
     <div class="col-lg-12">
-        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website.
-
-        Here.  Look at this.
+        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website. Here.  <a href="{{ site.baseurl }}{% link maternitytest.md %}" class="card-link">Look at this stupid maternity test I created.</a>
     </div>
 </div>
-
-<div class="row">
- <div class="col-lg-12">
-    {% include carousel.html %}
- </div>
-</div>
-
 <div class="row">
     <div class="col-lg-12">
-
-
         <div class="card">
         <div class="card-body">
             <h4 class="card-title">Suburban Dictionary</h4>
@@ -42,7 +31,6 @@ date: 2017-11-04
             </div>
         </div>
     </div>
-
     <div class="col-lg-4">
         <div class="card">
         <div class="card-body">
@@ -53,7 +41,6 @@ date: 2017-11-04
         </div>
         </div>
     </div>
-
     <div class="col-lg-4">
         <div class="card">
         <div class="card-body">
@@ -64,13 +51,10 @@ date: 2017-11-04
         </div>
         </div>
     </div>
-
 </div>
 <div class="row">
-    <div class="col-lg-12">
-        <div class="well">
-            <h3 class="ad">Support This Page By Ignoring These Ads</h3>
-            {% include google-adsense-bottompage.html %}
-        </div>
-    </div>
+ <div class="col-lg-12">
+    <h2>Here is my little take on why roators and carousels SUCK on web pages</h2>
+    {% include carousel.html %}
+ </div>
 </div>
