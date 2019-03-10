@@ -8,7 +8,7 @@ permalink: blag/shitty-roommate/say-it-with-pictures/
 >
 >*I played hookey with my high school P.E. class because I felt this had to be done*
 >
->*Shii decided to show you this image:*<br>![Gaaaaah](/assets/images/shitty/gaaah.gif)*
+>*Shii decided to show you this image:*<br>![Gaaaaah](/assets/images/shitty/gaaah.jpg)*
 
 An easier way to storypanel this would be me on the ground in the first panel, then a shot with me facing the camera taking most of the panel standing up and dusting myself off, but behind me over my shoulder is a tall figure with looming red eyes. Next panel is me just standing there like the previous frame but looking to the side, like I think something is up behind me. Final panel is me screaming like a sissy and tackling the figure, which turns out to be a standup of kirk.
 

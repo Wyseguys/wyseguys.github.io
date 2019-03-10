@@ -46,7 +46,7 @@ Oh, and now that the story is over, I can spoil this.
 
 >**Shii decided to show you this image:**
 >
->*![Shitty Roommate Fuck Shit!](/assets/images/shitty/fuckshit.gif)*
+>*![Shitty Roommate Fuck Shit!](/assets/images/shitty/fuckshit.jpg)*
 
 
 >**squirrellypoo came out of the closet to say:**

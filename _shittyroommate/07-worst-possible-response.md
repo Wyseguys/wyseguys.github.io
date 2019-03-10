@@ -32,7 +32,7 @@ After that they gave eachother a look and decided to wait for the moonsuit crew.
 >
 >*this look anything like the setup?*
 >
->![Fortress](/assets/images/shitty/fortress.gif)
+>![Fortress](/assets/images/shitty/fortress.jpg)
 
 Close, but no cigar. Let me see if I can mspaint it with my shitty skills.
 
@@ -50,7 +50,7 @@ The picture is painfully badly done, but it is basically correct.
 >
 >*Shii decided to show you this image:*
 >
->![The Phone Call](/assets/images/shitty/phonecall.gif)
+>![The Phone Call](/assets/images/shitty/phonecall.jpg)
 
 >**Shii Says:**
 >
@@ -58,7 +58,7 @@ The picture is painfully badly done, but it is basically correct.
 >
 >*Shii decided to show you this image:*
 >
->![Truck](/assets/images/shitty/truck.gif)
+>![Truck](/assets/images/shitty/truck.jpg)
 
 >**Shii Says:**
 >
@@ -68,7 +68,7 @@ The picture is painfully badly done, but it is basically correct.
 >
 >*Shii decided to show you this image:*
 >
->![Room of trash](/assets/images/shitty/roomoftrash.gif)
+>![Room of trash](/assets/images/shitty/roomoftrash.jpg)
 
 >**Shii came out of the closet to say:**
 >

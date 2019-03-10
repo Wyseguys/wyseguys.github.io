@@ -33,7 +33,7 @@ Ok, if you've ever owned a sliding door, you know that you can secure it from be
 >
 >*Oh wow, that explains it a lot better. That's genius, man.*
 >
->*Edit: I made a diagram:<br>![First diagram]({{ "/assets/images/shitty/diagram01.gif" | absolute_url }})*
+>*Edit: I made a diagram:<br>![First diagram]({{ "/assets/images/shitty/diagram01.jpg" | absolute_url }})*
 >
 >*Edit 2: Dammit, beaten.*
 
@@ -55,7 +55,7 @@ Ok, if you've ever owned a sliding door, you know that you can secure it from be
 >
 >*OP, is this anything like correct?*
 >
->![Sliding Part of door](/assets/images/shitty/diagram02.gif)
+>![Sliding Part of door](/assets/images/shitty/diagram02.jpg)
 >
 >*kick ass story, btw*
 
