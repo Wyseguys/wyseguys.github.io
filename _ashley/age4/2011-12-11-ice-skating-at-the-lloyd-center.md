@@ -8,4 +8,4 @@ MY FEET WERE ON BLOODY FIRE, THEY SCABBED OVER AND WERE STUCK IN ICE SKATE RENTA
 
 But Ashley did a nice job skating with Aunt Becky and Aunt Katie.  It was pretty fun, I wish I could have been out there a bit more to skate with her, but my stubby pained hubs kept me on the sidelines.
 
-<a href="https://picasaweb.google.com/108001626876662627571/IceSkating?authkey=Gv1sRgCKbz0fCrhvO2fA">https://picasaweb.google.com/108001626876662627571/IceSkating?authkey=Gv1sRgCKbz0fCrhvO2fA</a>
+[<img src="https://lh3.googleusercontent.com/qJpQVZefyVRNkzDs8bUb_2bi8Nd6E_aup-C2KmT2sqw9_sdlzsj5JAUmyDpdRNPBVn-WrRng5Lm6tCHTeE4IhCgAiVFAnNPHewr5PwHnGQ=w294-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipN-uHoDaRNym8EVyCJkE3RXtvmJRADAqu7S6GSd?source=pwa&authKey=CKbz0fCrhvO2fA)

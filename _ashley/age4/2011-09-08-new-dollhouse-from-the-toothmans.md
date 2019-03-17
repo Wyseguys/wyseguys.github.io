@@ -8,4 +8,4 @@ Great Grandma and Granddad Toothman sent over the doll house that Ashley had f
 
 It turns out that Ashley is indeed still a bit young to be left alone with the doll house, so we eventually ended up putting the doll house up on a shelf for now.  It won't be long before we can get it down and let Ashley play with it on her own.
 
-<a href="https://picasaweb.google.com/108001626876662627571/NewDollhouseFromTheToothmans?authkey=Gv1sRgCMnw8fWhyrf8jwE">https://picasaweb.google.com/108001626876662627571/NewDollhouseFromTheToothmans?authkey=Gv1sRgCMnw8fWhyrf8jwE</a>
+[<img src="https://lh3.googleusercontent.com/QrjjfXt8pmpBpwN4rH9ARHdHxUBs302az35xx-NozF51p06-Hi3mUKwITyhfIoRRbjxhllAjMHdlYy3bcTSYt5OI-WWH2wk4_PZYFoQoqkc=w293-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPruiS8_JVNxX8h4pv7N60fmJlBu62sPyj_uK0N?source=pwa&authKey=CMnw8fWhyrf8jwE)

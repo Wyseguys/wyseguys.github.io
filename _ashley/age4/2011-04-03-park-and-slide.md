@@ -4,4 +4,8 @@ date: 2011-04-03 22:03:00
 age: 4
 categories: [Ashley, Funny]
 ---
-<p>I always put pictures of Ashley at the park.  So, no surprises here right.</p>  <p>   </p><table style="width: 194px"><tbody>       <tr>         <td style="background: url(https://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left 50%; height: 194px" align="center"><a href="https://picasaweb.google.com/wyseguys/ParkAndSlide?authkey=Gv1sRgCKqf05OU6rKKrAE&amp;feat=embedwebsite"><img style="margin: 1px 0px 0px 4px" src="https://lh5.googleusercontent.com/_bNrV-VN1BbE/TbZBC7CslBE/AAAAAAAAFz0/5khcg9-PP3Y/s160-c/ParkAndSlide.jpg" width="160" height="160" /></a></td>       </tr>        <tr>         <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a style="color: #4d4d4d; font-weight: bold; text-decoration: none" href="https://picasaweb.google.com/wyseguys/ParkAndSlide?authkey=Gv1sRgCKqf05OU6rKKrAE&amp;feat=embedwebsite">Park And Slide</a></td>       </tr>     </tbody></table>
+I always put pictures of Ashley at the park.  So, no surprises here right.
+
+[<img src="https://lh3.googleusercontent.com/tPBFmRcVTgxqlwAkk1NU-Pcyy-a540wFxQyMRFpZ-nqun96TxHYkdGJW4P21CaksyKbuLdizgvqqtXV-BNrbqJhyd1Gz0Jxjr8lYuL96rSg=w165-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipObZefiAtoaPEaW1dyhs3PnPkyg0hg4mEpN2SIv?authKey=CKqf05OU6rKKrAE)
+
+Park And Slide

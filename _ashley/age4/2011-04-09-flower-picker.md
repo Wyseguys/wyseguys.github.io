@@ -4,4 +4,8 @@ date: 2011-04-09 22:03:00
 age: 4
 categories: [Ashley, Home]
 ---
-<p>You can pick your friends and you can pick your nose.  Also you can pick weeds in your backyard.</p>  <p>   </p><table style="width: 194px"><tbody>       <tr>         <td style="background: url(https://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left 50%; height: 194px" align="center"><a href="https://picasaweb.google.com/wyseguys/FlowerPicker?authkey=Gv1sRgCL7avba1x5qXdA&amp;feat=embedwebsite"><img style="margin: 1px 0px 0px 4px" src="https://lh5.googleusercontent.com/_bNrV-VN1BbE/TbZBLcXa4BE/AAAAAAAAF0I/w0NaT6SuI64/s160-c/FlowerPicker.jpg" width="160" height="160" /></a></td>       </tr>        <tr>         <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a style="color: #4d4d4d; font-weight: bold; text-decoration: none" href="https://picasaweb.google.com/wyseguys/FlowerPicker?authkey=Gv1sRgCL7avba1x5qXdA&amp;feat=embedwebsite">Flower Picker</a></td>       </tr>     </tbody></table>
+You can pick your friends and you can pick your nose.  Also you can pick weeds in your backyard.
+
+[<img src="https://lh3.googleusercontent.com/N1FMF71R6o24j4q_nGjTqg3PsOTljaT2N4OZAffneQedFugjBB07bFWZZfA8LFCb1s0bYI2gSkf8i8fS6RwS6ZD29Ex6j4y05AL03sx9zXc=w293-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipN5ILBEAj8KfDilRpglMkK_4N_65ehJDcwRUeoI?authKey=CL7avba1x5qXdA)
+
+Flower Picker

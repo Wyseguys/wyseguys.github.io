@@ -46,14 +46,14 @@ sigh.
 
 Anyways, here is some googling I tried to located the earliest copy.
 
- - 2004-10-29 a spooky copy here. https://bealers.com/if-architects-had-to-work-like-web-designers/
- - 2004-10-18 but referenced from here a few days before. https://twasink.net/2004/10/18/if-architects-had-to-work-like-web-designers/
- - 2002-01-01 (a suspicious date) https://scottmanning.com/content/if-architects-had-to-work-like-web-designers/
- - 1997-12-26 a bored xmas vacation gave us https://paws.kettering.edu/~jhuggins/humor/design.html
- - Searching in books, even published authors can't dig up an good origin. https://books.google.com/books?id=5AskDwAAQBAJ&pg=PT283&lpg=PT283&dq=Dear+Mr.+Architect:+Please+design+and+build+me+a+house.
- - https://books.google.com/books?id=0Rb5jBg6sJwC&pg=PA109&lpg=PA109&dq=Dear+Mr.+Architect:+Please+design+and+build+me+a+house.
+ - 2004-10-29 a spooky copy here. <a href="https://bealers.com/if-architects-had-to-work-like-web-designers/">bealers.com</a>
+ - 2004-10-18 but referenced from here a few days before. <a href="https://twasink.net/2004/10/18/if-architects-had-to-work-like-web-designers/">twasink.net</a>
+ - 2002-01-01 (a suspicious date) <a href="https://scottmanning.com/content/if-architects-had-to-work-like-web-designers/">scottmanning.com</a>
+ - 1997-12-26 a bored xmas vacation gave us <a href="https://paws.kettering.edu/~jhuggins/humor/design.html">paws.kettering.edu</a>
+ - Searching in books, even published authors can't dig up an good origin. <a href="https://books.google.com/books?id=5AskDwAAQBAJ&pg=PT283&lpg=PT283&dq=Dear+Mr.+Architect:+Please+design+and+build+me+a+house">books.google.com</a>
+  - <a href="https://books.google.com/books?id=0Rb5jBg6sJwC&pg=PA109&lpg=PA109&dq=Dear+Mr.+Architect:+Please+design+and+build+me+a+house"> also books.google.com</a>
 
-But I guess the one I found at https://www.smart-jokes.org/if-architects-had-to-work-like-programmers.html had the answer.  It claimed a copyright for Leo Trotzki.
+But I guess the one I found at <a href="https://www.smart-jokes.org/if-architects-had-to-work-like-programmers.html">www.smart-jokes.org</a> had the answer.  It claimed a copyright for Leo Trotzki.
 
 So even a major philosopher and marxists theorists had rough days doing layout for indecisive customers.
 

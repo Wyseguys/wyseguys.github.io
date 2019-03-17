@@ -16,4 +16,4 @@ I don't know what to tell Ashley, but I know I have to tell her the truth, or a 
 
 I guess that is all true enough.  I feel like poop for that little girl.
 
-<a href="https://picasaweb.google.com/108001626876662627571/GoodbyeGowah?authkey=Gv1sRgCLjX1rzKve3CMg">https://picasaweb.google.com/108001626876662627571/GoodbyeGowah?authkey=Gv1sRgCLjX1rzKve3CMg</a>
+[<img src="https://lh3.googleusercontent.com/bjVK1OJYUFmuTU4eowEMNal8MKw3tQkebZEvSWCrRcNCCt0mWQWAPiBRNT0Pklqm2GDxo6WJBOXMZRxs5V3pzqQji3aoc6VogxFqkHSF4g=w293-h220" alt="a pink furry smear on a dark and damp driveway" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNDDpqbxKaN2dhnvIOXEUMTQz31xMDP0rTnfMte?source=pwa&authKey=CLjX1rzKve3CMg)

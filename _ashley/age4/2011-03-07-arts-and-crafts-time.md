@@ -4,4 +4,6 @@ date: 2011-03-07 21:59:00
 age: 4
 categories: [Ashley, Home]
 ---
-<p>   </p><table style="width: 194px"><tbody>       <tr>         <td style="background: url(https://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left 50%; height: 194px" align="center"><a href="https://picasaweb.google.com/wyseguys/ArtsAndCraftWinterEarly2011?authkey=Gv1sRgCIiB76zep_fXCw&amp;feat=embedwebsite"><img style="margin: 1px 0px 0px 4px" src="https://lh6.googleusercontent.com/_bNrV-VN1BbE/TbY8VuRi68E/AAAAAAAAFtQ/1r-6oB14o6o/s160-c/ArtsAndCraftWinterEarly2011.jpg" width="160" height="160" /></a></td>       </tr>        <tr>         <td style="text-align: center; font-family: arial,sans-serif; font-size: 11px"><a style="color: #4d4d4d; font-weight: bold; text-decoration: none" href="https://picasaweb.google.com/wyseguys/ArtsAndCraftWinterEarly2011?authkey=Gv1sRgCIiB76zep_fXCw&amp;feat=embedwebsite">Arts and Craft Winter Early 2011</a></td>       </tr>     </tbody></table>
+[<img src="https://lh3.googleusercontent.com/gEQSxRv1Skp0Oa5ba3RVZ5QpPkC7iulH8hiEXv-_-6CBKWPB-mKafreorFcRnMkQ3ZwIQSm-TlGlaKcmplyBK_KT6AHy6tFVnJbmgavahYQ=w293-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMBn-vyfsU2_gOouHlnb9B956j-t9AZrWwZ_rcz?authKey=CIiB76zep_fXCw)
+
+Arts and Craft Winter Early 2011
