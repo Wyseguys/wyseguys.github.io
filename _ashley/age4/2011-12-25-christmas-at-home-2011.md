@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 We had a Christmas celebration at home because part of being an overbearing parent to spoiling the holy crud out of the kid.  After we got all those present open, we hopped in the car (well, Ashley hopped, I just walked up and got in normally) and drove to Athena.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

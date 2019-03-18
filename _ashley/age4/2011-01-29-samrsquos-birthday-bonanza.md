@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 Ashley went to Sam's birthday in Salem.  At the end of the night she got a special gift from Grandpa.  Two handmade rocking chairs for her dolls and babies.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -9,6 +9,6 @@ description: probably just Ashley
 ---
 I always put pictures of Ashley at the park.  So, no surprises here right.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Park And Slide

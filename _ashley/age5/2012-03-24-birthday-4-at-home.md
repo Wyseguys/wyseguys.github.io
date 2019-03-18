@@ -11,4 +11,4 @@ We had a prefunk gathering of close friends and family at the homestead.  The t
 
 If I was a tougher Dad I would have put a stop to it, but who can resist her?  Click the big link below to see all the pictures.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

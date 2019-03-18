@@ -9,6 +9,6 @@ description: probably just Ashley
 ---
 Hey o.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Third Birthday

@@ -9,7 +9,7 @@ description: Peanut butter for working
 ---
 The day started normally enough, Ashley woke up and had herself a peanut butter sandwich for breakfast
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 And while all of that was pretty cute, we had to do some real work this day. It was Christmas Tree decorating time, and Ashley needed to get sharp to direct her rag tag team of bozo parents in doing it right. Early on one of the parents dropped out of the proceedings; (after raising the tree archival duties took precedent) and here are the results.
 

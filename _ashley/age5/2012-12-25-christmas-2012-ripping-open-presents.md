@@ -7,4 +7,4 @@ thumb: https://lh3.googleusercontent.com/gWdh9JDZduzTR4V-N8jue2zik3UH7EMtBiVARkK
 album: https://photos.google.com/album/AF1QipM00LwEHBzXzrpunXq_22K4QdnzrJS--c3Gi3hh
 description: Ashley's bounty under the tree
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

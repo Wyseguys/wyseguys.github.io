@@ -14,7 +14,7 @@ Why Fish Lake campground, run by the Army Corp of Engineers, is a good place to 
 	<li>You might have a free pass or something.</li>
 </ol>
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Reasons Fish Lake is horrid.  I mean so bad I would rather stay at Crystal Lake and run my chances with Jason than stay here again.  So bad that it would be better to have my toes cut off by a skilsaw than spend another night.
 <ol>

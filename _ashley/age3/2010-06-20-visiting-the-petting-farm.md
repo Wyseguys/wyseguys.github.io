@@ -9,6 +9,6 @@ description: The pig can sense Ashley's ability to make a mess; wants to learn f
 ---
 We went with Auntie Laurel to a dirty farm filled with filthy farm animals.  It was a pretty cool time.  There were goats, pigs, deer and a wallaby.  The wallaby didn’t know what the hell was going on (I think it was drunk) but the other animals were pretty happy to be there.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Ashley rode on the ponies and confirmed the stereotype that little girls like ponies.  So if anybody wants to “pony up” (zing) and help get the fund started it would be pretty groovy.  Mom and Dad don’t want to participate in the horse shenanigans, but we welcome anybody else to buy up a bail of hay.

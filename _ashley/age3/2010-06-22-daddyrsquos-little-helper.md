@@ -9,4 +9,4 @@ description: You'd think the title means we are building something, but we are a
 ---
 First she spends time making a mess, and then demands to help cleaning it up
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

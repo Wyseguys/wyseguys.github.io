@@ -9,6 +9,6 @@ description: T'was expected
 ---
 Mom got Ashley a set of paints and stuff the Ikea.  So they put down some cardboard and went to town.  Much more than just the paper was dabbled on, but all in all it was a pretty fun exercise in messing up Mom.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 There were many cools paintings and even a special I Heart Daddy painting.

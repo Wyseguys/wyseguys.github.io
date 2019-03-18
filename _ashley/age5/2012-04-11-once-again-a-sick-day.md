@@ -7,6 +7,6 @@ thumb: https://lh3.googleusercontent.com/3cdXrGN2OhNd6SO5o7X9nEz-7rB3P_wd6Br9Wnz
 album: https://photos.google.com/album/AF1QipPHNNTfMqxNA3cTmzWWj4f1XTRQH5ITH5rCW7MU?key=CMDO4JP9ofCEXg
 description: Ashley after a post puke victory
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 We stayed home trying to fight off a cough.  It didn't work.  She puked all over me a few days later.  Puking on me wasn't cool, but since I had already received two (2!) stickers for being a good dad, I was able to shake it off.    Click the big link above to see all the pictures

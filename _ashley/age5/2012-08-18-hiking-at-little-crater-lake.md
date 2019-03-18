@@ -9,4 +9,4 @@ description: Ashley showing me how to do it
 ---
 We tried to go camping without a reservation.  We should have had a reservation.  Instead we took a little walk near the Little Crater Lake and then camped in the backyard.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -9,6 +9,6 @@ description: probably just Ashley
 ---
 A consumer of multimedia and a master multi-tasker.  Ashley is able to enjoy a relaxing read of "As Man Thinkith" well re-watching the modern masterpiece "Toy Story 3" for the billionth time.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Such a wonderful life

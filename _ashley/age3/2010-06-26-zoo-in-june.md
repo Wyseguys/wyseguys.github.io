@@ -9,6 +9,6 @@ description: Giddyup lil partner
 ---
 The family took a trip to the Portland Zoo to try and get out of the house after a long weekend of being sick and crabby.  Ashley wanted to get out of the house herself.  We got there nice and early and saw animals, apes being grotesque, elephants and other animals being depraved and generally animalistic.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 So while we were barfing in our mouths at the motions of the elderly chimps, at least we didn’t have to fight crowds and we got nice close in parking.

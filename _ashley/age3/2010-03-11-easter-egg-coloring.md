@@ -9,4 +9,4 @@ description: Look ma, a mess!
 ---
 It was a nightmare of color and panic, but the carpet made it through just fine.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

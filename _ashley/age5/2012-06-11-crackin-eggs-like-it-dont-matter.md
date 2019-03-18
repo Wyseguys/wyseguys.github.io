@@ -9,4 +9,4 @@ description: Ashley using what she called 'natures whisk'
 ---
 Ashley is a "wonderful" cook, but the truth is that she can really crack eggs and not get a bunch of shell in the mix.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

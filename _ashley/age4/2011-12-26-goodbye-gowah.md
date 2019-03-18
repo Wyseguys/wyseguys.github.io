@@ -19,4 +19,4 @@ I don't know what to tell Ashley, but I know I have to tell her the truth, or a 
 
 I guess that is all true enough.  I feel like poop for that little girl.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

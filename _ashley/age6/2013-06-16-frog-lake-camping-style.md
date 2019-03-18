@@ -9,4 +9,4 @@ description: Camping is a delicate bit of business
 ---
 We went to Frog Lake on Mt Hood for a surprise father's day trip.  Mom and Ashley packed up everything for me and I didn't have to lift a finger.  (Except starting a fire, putting up the tent, setting up two fishing poles even though I don't want to fish, roasting my own hotdog and s'more, getting up and making a fire and coffee early in the morning, carry stuff to and from the fishing spot, and driving home)
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -7,6 +7,6 @@ thumb: https://lh3.googleusercontent.com/gEQSxRv1Skp0Oa5ba3RVZ5QpPkC7iulH8hiEXv-
 album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMBn-vyfsU2_gOouHlnb9B956j-t9AZrWwZ_rcz?authKey=CIiB76zep_fXCw
 description: probably just Ashley
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Arts and Craft Winter Early 2011

@@ -9,7 +9,7 @@ description: probably just Ashley
 ---
 Ashley was sick, and the dumbest cat in the house was on point.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 I just found some photos.  I don't know if I have to take Ashley to a brain doctor, or take myself.
 

@@ -3,6 +3,9 @@ title: Cannon Beach - June 09
 date: 2009-06-13 00:00:00
 age: 2
 categories: [Ashley]
+thumb: 
+album: 
+description: 
 ---
 <p>The Jennings and the Zwemkes went to Cannon Beach for the annual sand castle building contest. The sand castles were pretty weak but the sand was delicious and Ashley really came into her own when it comes to eating sand and playing in the mud.</p>
 

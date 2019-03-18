@@ -9,6 +9,6 @@ description: At nearly age 11, the change is almost complete
 ---
 Ashley got a ton of movies for her birthday.  I think her metamorphosis into a actual slug will complete before summer is up.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 So, no salt at the house please.

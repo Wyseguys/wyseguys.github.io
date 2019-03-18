@@ -11,4 +11,4 @@ Not only did Mom make Dad hike 4+ miles around the many falls in Silver Creek Fa
 
 Things started well, but they didn't finish well.  I suppose in the grant picture they finished fine because everybody is healthy and whole, but they didn't finish ideally because Ashley was so mad she practically invented new curse words for her Mother and I.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

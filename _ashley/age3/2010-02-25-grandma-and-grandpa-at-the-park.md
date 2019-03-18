@@ -9,6 +9,6 @@ description: Why walk when you can stand on the shoulders of giants or least be 
 ---
 It was a nice day and Ashley wanted to prove she could ride down the slide by herself.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Nicely done

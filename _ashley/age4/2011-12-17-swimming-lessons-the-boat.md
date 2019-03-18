@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 Ashley is taking swimming lessons.  Today was a big boater safety day, so my plans of getting rid of her in the ocean as crab bait are effectively dashed.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

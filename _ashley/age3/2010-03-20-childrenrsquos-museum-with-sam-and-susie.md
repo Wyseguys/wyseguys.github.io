@@ -9,6 +9,6 @@ description: So.  How was work?
 ---
 We went the children’s museum.  We all took public transit and basically it was one of the most hectic days on record.  Sam wound Ashley all up, and she in turn put the monkey’s in his backpack so there was a lot of chasing kids around.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Plus it is probably just irresponsible to put out a water exhibit in March.

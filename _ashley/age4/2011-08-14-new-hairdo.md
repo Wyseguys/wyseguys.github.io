@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 Ashley and I were working out the beats of a new possible hairdo.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -4,5 +4,8 @@ date: 2009-03-22 19:59:00
 age: 2
 categories: [Ashley, Personal, Videos]
 tags: []
+thumb: 
+album: 
+description: 
 ---
-<iframe src="https://skydrive.live.com/embed?cid=F443C8FEC5D6FFCE&amp;resid=F443C8FEC5D6FFCE%21196&amp;authkey=AG7ZRQ25aiezExs" width="320" height="240" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://onedrive.live.com/embed?cid=F443C8FEC5D6FFCE&resid=F443C8FEC5D6FFCE%21196&authkey=AG7ZRQ25aiezExs" width="320" height="240" frameborder="0" scrolling="no" allowfullscreen></iframe>

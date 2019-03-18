@@ -9,6 +9,6 @@ description: I guess it is really supposed to be a beaver?
 ---
 How much fun can Ashley have at the park?  Lots
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 She is growing up so fast.  Playing on the swings, doing slides by herself, and doing a super dangerous dangled from the slide cross bar seven feet off of the ground.

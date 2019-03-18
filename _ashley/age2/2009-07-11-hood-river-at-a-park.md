@@ -3,6 +3,9 @@ title: Hood River at a park
 date: 2009-07-11 00:00:00
 age: 2
 categories: [Ashley]
+thumb: 
+album: 
+description: 
 ---
 <p> Ashley and the team met Grandma Marsha in Hood River to do a child exchange and play on the big toy. The big toy was great; old splintery wood, lots of levels and real tires. A super dangerous super fun playground.</p>
 <p>Hood River is a pretty nice place from what we saw, but very steep and windy.  It was suspected they don't worry much about snow.<br />

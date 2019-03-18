@@ -9,4 +9,4 @@ description: Are we happy or mad?  Nobody can tell...
 ---
 Mom and Auntie took Ashley to do a fashion shoot at the park.  As you can see the attitude was out just as brightly as the sun.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

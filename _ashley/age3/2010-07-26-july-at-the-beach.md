@@ -9,6 +9,6 @@ description: Ain't no wind like a cold wind
 ---
 Mary's co workers generously allowed us to use their house on the beach and we took a trip. The Salem family came over for the day and we spent and extremely windy day on the sand. Ashley nearly blew away at one point, but only Mary noticed because Chris was burying his nephew and Jon was throwing a Frisbee into the wind.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Only Grandpa was smart enough to spend time near the rocks and out of the wind. There was a small river of water to cross, sand in our pants and a cold ocean to play with. At one point Michael ran down the beach and we didn't see him again until the LAPD dropped him off.

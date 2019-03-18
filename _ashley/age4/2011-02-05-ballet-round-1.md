@@ -7,6 +7,6 @@ thumb: https://lh3.googleusercontent.com/DW8WOaSvw6m3GiHEFRgRJICsuN_nZRaZbPpZuHQ
 album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOjCJISMa9FzyWlRnY_tbqfjOMKYYo4lKclKfZ-?authKey=CIOi3pP4-omnWQ
 description: probably just Ashley
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Ballet Round 1

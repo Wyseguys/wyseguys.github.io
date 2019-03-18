@@ -13,4 +13,4 @@ Step 2:  live two years
 
 Step 3:  party like there is no tomorrow
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

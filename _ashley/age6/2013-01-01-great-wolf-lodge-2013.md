@@ -9,4 +9,4 @@ description: Little Ashley riding in a car or something
 ---
 Once again.  The super-duper-exciting-can't-hardly-wait-every-year-I-am-so-happy-to-go-do-this-adventure-of-charm-that-is-totally-worth-while visit to the Great Wolf lodge for the new year festivities.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

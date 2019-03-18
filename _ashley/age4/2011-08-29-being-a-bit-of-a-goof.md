@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 It was a sick day home for dad, (and one other day I added in) where Ashley was just playing in the living room.  She would make lily pads from our placemats and setup court to hold with her toys.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

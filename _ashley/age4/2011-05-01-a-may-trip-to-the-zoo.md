@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 We went to the zoo.  It was May.  There really ins't anything else to say about it.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

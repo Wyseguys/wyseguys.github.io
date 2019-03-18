@@ -9,4 +9,4 @@ description: Ashley and Auntie
 ---
 Aunt T came to town and brought her puppy and Uncle T.  T, Mommy and Ashley did some pretty fun looking things.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

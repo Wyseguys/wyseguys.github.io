@@ -9,4 +9,4 @@ description: Ashley's note at school
 ---
 At bedtime I needed so much water!  Then I made my energy get bigger and bigger.  I just had to ball it up and put a lid on it so I could go to sleep
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

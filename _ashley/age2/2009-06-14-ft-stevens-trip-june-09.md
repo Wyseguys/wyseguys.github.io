@@ -3,6 +3,9 @@ title: Ft Stevens Trip - June 09
 date: 2009-06-14 00:00:00
 age: 2
 categories: [Ashley]
+thumb: 
+album: 
+description: 
 ---
 <p>The family took a three night trip to FT Stevens in Hammond, OR for a much needed break. The Jennings came along and we all had a good time.</p>
 <p>

@@ -4,9 +4,10 @@ date: 2009-03-07 01:00:00
 age: 2
 categories: [Ashley]
 tags: []
+thumb: https://lh3.googleusercontent.com/yJWUDU5FNgAD-LlfqsFc0KJ2oy_mRTVv7lO1LSUNN5EDGaNw1FiqK1U9c7qO-_8x-ByOqHwh6Hy1Do62qw=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNpFSJnGkmbkkMgNJRqJ8ES914uDEDmCVNHaO5G?authKey=CKnCj_7kioHX7QE
+description: Buggin;
 ---
-
-
 Ashley's first time swimming was at the Portland Parks and Rec center. Aunts Katie and Becky came along and showed Ashley how to have fun.
 
-<embed height="267" width="400" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5314364591774326081%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCKnCj_7kioHX7QE%26hl%3Den_US" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" />
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

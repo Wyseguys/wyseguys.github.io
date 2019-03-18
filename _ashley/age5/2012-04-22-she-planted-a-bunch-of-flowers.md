@@ -9,6 +9,6 @@ description: Ashley and Mom in the weeds
 ---
 Watered them too.  Then I made the little one wipe up all the water from the floor.  Mary went bonkers with the plants.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 To polish off the night, I had to soak the couch cushions in cat pee eliminator.  Stupid cats.

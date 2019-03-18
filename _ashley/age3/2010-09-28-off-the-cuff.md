@@ -9,6 +9,6 @@ description: Le sigh
 ---
 Ashley does some really funny things.  We aren’t the best at taking pictures of it all lately.  I would get the camera more often, but we are usually to busy talking to the girl to remember.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 In today’s episode, we find Ashley destroying the living room, walking around the living room in high heels, and being tuned into the TV in various locals.

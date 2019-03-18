@@ -9,4 +9,4 @@ description: If you are gonna be sick, look the part
 ---
 Ashley had a bit of a cold, so she stayed home with Dad and watched tv.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

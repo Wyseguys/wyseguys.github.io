@@ -9,4 +9,4 @@ description: Ashley hamming it up after a long weekend
 ---
 Here is Ashley with the final touches on her new room. What a lucky kid.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

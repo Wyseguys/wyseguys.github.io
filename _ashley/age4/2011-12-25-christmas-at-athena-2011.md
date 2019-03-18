@@ -7,7 +7,7 @@ thumb: https://lh3.googleusercontent.com/CwCnnpRTPXqOqpTvjQNG5H3o4gTf7h4c3Fq86Rd
 album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNqrkGmXFzzSoprtgrx3c63GB2s3VPvRJJuyXly?source=pwa&authKey=CJKRxdGrppbKhgE
 description: probably just Ashley
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Twas Christmas in Athena<br />
 And all through the hills<br />

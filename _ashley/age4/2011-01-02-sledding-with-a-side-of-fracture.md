@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 We went sledding on Santiam Pass for fun.  Didn't get many pictures because of a vicious casualty on the slope.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

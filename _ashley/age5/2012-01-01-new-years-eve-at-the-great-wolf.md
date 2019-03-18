@@ -11,4 +11,4 @@ The Jennings came with us for a another good time.
 
 Click the big link for a view of the whole gallery
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

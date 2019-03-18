@@ -9,4 +9,4 @@ description: Ashley running towards danger...
 ---
 We had a small firework show in the driveway this year.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

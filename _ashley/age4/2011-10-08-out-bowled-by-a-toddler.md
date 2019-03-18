@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 Not even kidding.  She had the little ramp and bumpers, but still.  The girl is three and was beating us both.  I don't claim to be a good bowler, but holy smokes.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

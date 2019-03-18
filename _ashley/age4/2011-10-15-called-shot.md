@@ -21,4 +21,4 @@ As we got back around, the hotel has an enormous grassy area with fire pits, gia
 8. The golf ball flies 14.5 feet from the rock to Ashley's forehead
 9. Dad has a good laugh
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

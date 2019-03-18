@@ -11,4 +11,4 @@ Dark, zoo.  Trees trains and tapirs
 
 No photos  because it was dark
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

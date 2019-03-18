@@ -9,6 +9,6 @@ description: probably just Ashley
 ---
 You can pick your friends and you can pick your nose.  Also you can pick weeds in your backyard.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Flower Picker

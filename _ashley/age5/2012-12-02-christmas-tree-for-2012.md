@@ -9,4 +9,4 @@ description: Ashley letting mom do someting important on behind the tree
 ---
 Getting the tree was a U-Cut adventure this year.  Decorating it was seemingly more fun.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

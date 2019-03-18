@@ -7,6 +7,6 @@ thumb: https://lh3.googleusercontent.com/xIq0FMuzAi6hvp0R8w852KZXUb6tO8a7nPecWjg
 album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOBjagWTDJBP2DKzG5yTLs6i1PMmNZYjbr0ZdIZ?authKey=CNea55meurK4Hw
 description: probably just Ashley
 ---
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Parker Party

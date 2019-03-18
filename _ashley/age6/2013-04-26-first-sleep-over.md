@@ -19,4 +19,4 @@ Ashley's friend from school came over and we had the first sleep over
  - We dropped the friend off at 1:00PM
  - Ashley went to sleep so hard that she couldn't be shaken awake
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

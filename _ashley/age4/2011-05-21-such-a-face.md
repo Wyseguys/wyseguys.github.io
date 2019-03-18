@@ -9,7 +9,7 @@ description: probably just Ashley
 ---
 She can turn it on and off as needed.  How much trouble I will be in as she gets into her teens.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Tutu Cute?  Yup.
 

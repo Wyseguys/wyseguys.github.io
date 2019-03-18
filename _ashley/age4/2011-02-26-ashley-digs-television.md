@@ -9,6 +9,6 @@ description: probably just Ashley
 ---
 And I am a bad Dad.  But this is still pretty cute.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 Make With the Funny

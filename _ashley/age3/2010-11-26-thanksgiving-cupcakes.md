@@ -13,4 +13,4 @@ Ashley has learned the power and draw of cupcakes.  While she claims to enjoy m
 
 Today she has roped Grandma into <strike>making </strike>helping her make some.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -9,4 +9,4 @@ description: Some people are hungry, we waste their food
 ---
 In an affront to the macabre and twisted, the Zwemke portion of Ashley’s family got a bushel of gourds and took after them like Damer took after coeds.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

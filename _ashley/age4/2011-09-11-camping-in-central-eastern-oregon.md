@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 We went camping the day after memorial day.  It was pretty awesome, as all the drunks left without burning up all their firewood.  Mary agreed to leave the fish alone and just murder worms, while Ashley and I went spelunking.  (We dropped stones in the water and they went <em>spelunk</em>)
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

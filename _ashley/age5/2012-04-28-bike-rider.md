@@ -9,4 +9,4 @@ description: Ashley has long since established the need for speed
 ---
 Not only does she ride her bike, but she watches way too much model competition shows with Mom.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

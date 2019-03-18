@@ -4,6 +4,9 @@ date: 2009-04-04 00:00:00
 age: 2
 categories: [Ashley, Of interest]
 tags: []
+thumb: 
+album: 
+description: 
 ---
 Ashley's #1 birthday party was held at our local Portland Parks and Rec center.  It was pretty great.  While I am normally able to find fault in all things, I was very pleased with how the party went.  We had more people than we had space at the center, and Mary and I are so thankful to everybody that took the time to show up and sing for Ashley.    
 

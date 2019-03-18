@@ -11,4 +11,4 @@ It was a nice party and we were very glad so many of Ashley's good friends were 
 
 Mom did a pretty awesome job planning the party and getting all the kids sugared up and out of the room lickity split.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

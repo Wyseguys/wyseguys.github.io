@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 Ashley got a sprinkler for the backyard.  It was party time.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

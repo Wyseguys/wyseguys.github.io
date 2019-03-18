@@ -11,4 +11,4 @@ Not only did Mom and I dig a ditch today, we also went and ordered up some rock 
 
 Lot of work today.  Happy Mother's day mom.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

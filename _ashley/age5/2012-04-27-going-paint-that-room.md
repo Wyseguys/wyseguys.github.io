@@ -9,4 +9,4 @@ description: And there is no more important safety tip, than to wear a pair of t
 ---
 So the plan is to let Miss Ashley paint her room.  She gets to pick the colors (purple and pink, with a blue for me and mom) and decide where those colors go.  Bubbles has also determined that her nightstand is to be painted yellow.  I am afraid for that choice, but c'est la vie.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -9,4 +9,4 @@ description: probably just Ashley
 ---
 It was hard to get good pictures are Ashley madly danced around our bedroom.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

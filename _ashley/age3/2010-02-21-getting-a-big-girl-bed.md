@@ -9,6 +9,6 @@ description: Cribs are for chumps
 ---
 Ashley graduated from a crib into a new bed.  Mommy picked it out and made a very nice bedroom for our baby to sleep and play in.  The bed will expand all the way out the length of a twin, so Miss Ashley has some room to grow in it.
 
-[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})
 
 It was pretty much the greatest thing to the the little princess, and she took to swimming in the bed like a crow takes to corn.  Admittedly there was a “falling out” incident the first night, but since then it has been almost perfect.
