@@ -3,5 +3,12 @@ title: Zoo Lights
 date: 2010-12-11 12:50:00
 age: 3
 categories: [Ashley, Home]
+thumb: https://lh3.googleusercontent.com/x8oZzjqvcR9NdVhzTuziC-lxiMspu4lrYoDpTamkgifQBDPKpi_Ui0pxWQ_pI8quycxFQ-V3R6mK2sXRbmQ=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOAviqhM24jpNwIqHYABV3YCiwEVieuMQXU2f_A?authKey=CLffoLishJPiJQ
+description: A gaggle of cousins and a lion
 ---
-<p>Dark, zoo.  Trees trains and tapirs.</p>  <p>No photos  because it was dark.</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5555030406761334193%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLffoLishJPiJQ%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
+Dark, zoo.  Trees trains and tapirs
+
+No photos  because it was dark
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})

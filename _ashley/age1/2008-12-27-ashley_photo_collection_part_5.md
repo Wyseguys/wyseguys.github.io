@@ -3,5 +3,48 @@ title: "Ashley Photo Collection part 5"
 date: 2008-12-27 00:06:00
 age: 1
 tags: [age1]
+thumb: https://lh3.googleusercontent.com/lxxGNdP55B3F45__mPWS44DkadQCUd-Td9MSw0YB7hFr0BpBEC9S6dolNf8588cpJ4aEqiWMyV4PVaIO8FU=w293-h220
 ---
-<div align="center"> <table border="0" cellspacing="0" cellpadding="4"> <tbody> <tr> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Pink Chair](http://picasaweb.google.com/wyseguys/PinkChair?authkey=6sRdDWU9bdw&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Cleaning the Floor](http://picasaweb.google.com/wyseguys/CleaningTheFloor?authkey=nDpB4lqfqCg&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Ashley Eats Like a Pig](http://picasaweb.google.com/wyseguys/AshleyEatsLikeAPig?authkey=ZtSt0S5yNSU&amp;feat=embedwebsite)</td></tr></tbody></table></td></tr> <tr> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Having a Nice Night](http://picasaweb.google.com/wyseguys/HavingANiceNight?authkey=qZHFQEJn9zA&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Snow Day](http://picasaweb.google.com/wyseguys/SnowDay?authkey=rkIrqn-M3fw&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[On the Phone With Grandma Marsha](http://picasaweb.google.com/wyseguys/OnThePhoneWithGrandmaMarsha?authkey=0G6ub-x1qns&amp;feat=embedwebsite)</td></tr></tbody></table></td></tr> <tr> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Heading Out Snow Day](http://picasaweb.google.com/wyseguys/HeadingOutSnowDay?authkey=8DP7RBM_c1k&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Christmas 08 Salem](http://picasaweb.google.com/wyseguys/Christmas08Salem?authkey=RykZhFTcNHQ&amp;feat=embedwebsite)</td></tr></tbody></table></td> <td> <table style="width: 194px"> <tbody> <tr> <td style="background: url(http://picasaweb.google.com/f/img/transparent_album_background.gif) no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial" align="center">[Pink Chair 2](http://picasaweb.google.com/wyseguys/PinkChair2?authkey=OSEem-c8aFM&amp;feat=embedwebsite)</td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>Pink Chair</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOwvrtpvURZM16cRqyPUikOnU1do5LVWLVE3v5H?authKey=CLuooJ-EsLCgCA"><img src="https://lh3.googleusercontent.com/lxxGNdP55B3F45__mPWS44DkadQCUd-Td9MSw0YB7hFr0BpBEC9S6dolNf8588cpJ4aEqiWMyV4PVaIO8FU=w293-h220" alt="Pink ejection chair"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Cleaning Floors</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipP1GVgDJdkm80iW098pB-UuGwHRiEzqjkUF_13A?authKey=CKjQ_tSlvJCdnAE"><img src="https://lh3.googleusercontent.com/PWnzOLsmyas6TufFKz1QGssYMsQrDBEEBZk2o4dETUVZKSO8xhMwbJ8uThV4Lhuupq5u3aQnMYOqYkN13v0=w293-h220" alt="Into the dirty cat house"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Eat like a pig</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPRudjDshpM7NaIhPmDstvGwSOg37GAEdA9dJff?authKey=CKXqyPOSuqvqZg"><img src="https://lh3.googleusercontent.com/ZoVqb297j1_aa_Z9o--KLmsbpQy8Q9GhIqzsY02ChT0nUyB6ujiGQnP5_Gppxq2PdjJzIbX7XAX1UwDOKw=w293-h220" alt="Whats un is that in retrospect this was a pretty mild case of messy eating.  She was this bad at 10"/></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Nice Night</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMydvgJ_Jzcrp9yCtRpQ9YvsxhfO41Fq5HMhJbj?authKey=CLDun5OEqPHIqQE"><img src="https://lh3.googleusercontent.com/Dgq1WkrQKmi2ubwvrDTmLTz4nPktcpbLXAtJYqGAVHJJG0o_yC0SVvtHq8Gs-8Lw24v6fozMn4K5k95rQQ=w293-h220" alt="I don't remember this night, but it looks like fun"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Snow day</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPBuiWZ5G8vtP7PB8rkpQqCuOsrE2LvdkikwicC?authKey=CPy7s_yn9YqhrgE"><img src="https://lh3.googleusercontent.com/BUoH2XFSpJ-TP5gJ0SsQg2SVhjjZ2It-MveTUsGbRaqQKOgfb5EixycyYDWhcOZoOc1jSPdEttcvjfdQ3A=w293-h220" alt="Unusual amount of snow"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>On the Phone</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMyjPEVgLohlzQZj5NOynQMuUX1xMdEPfn3F0wq?authKey=CPvU1uP-zau30AE"><img src="https://lh3.googleusercontent.com/C1BPaLUyP9ekEHOVi8PRhFvIJDj2oxeMjePXEHb2PVL-7O_4W_NSYtHICOe0OgkSIxFAsWWoCKyHQw1SaA=w293-h220" alt="Already to use the smart home assistants"/></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Heading out to snow</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipONKMhAA10CRm7GIZ6wJq5aiS3w_JKlswIf37C_?authKey=CNnm_ZnB6P6Z8AE"><img src="https://lh3.googleusercontent.com/N0FkUGshPe8jg11qaLKNm_AcxacZQcdykujlj-oj7j7aSyK8eEVPX5DZQ1DoJHZh55QhdIMx_jYmzagnrA=w293-h220" alt="Bundle up for the snow"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Xmas 08</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMPM6j7CqLgwIrja6sX5vY-_q_gGVN-ImsGVCH4?authKey=CPTo8KbFsMaURw"><img src="https://lh3.googleusercontent.com/wpGeCWk1dwsb9qQZvE5stIyEQZoBwSdi_cb4RU-cWaOHVY8qr5DX4UMtFrhvsMaYQDgkrqrX9puQAxyHww=w293-h220" alt="This is a dope orange sweater"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Pink chair 2</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOkfPPsDEQT39Ccs4eASw8_W1hteJf-5WoxPT08?authKey=CNPQ8bm-08eQOQ"><img src="https://lh3.googleusercontent.com/x5k7csJn-RBjy4jQ5q0CiCHur6L_MdRyHaqE8FlST7HEB0JoHYFNYDSAKfitHoLY1OPlCgym-8B5mClX8g=w293-h220" alt="Nothing but pink chair"/></a>
+    </div>
+</div>

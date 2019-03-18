@@ -3,6 +3,9 @@ title: New Videos Are Posted
 date: 2012-05-25 17:00:00
 age: 5
 categories: [Personal, Videos]
+thumb: 
+album: 
+description: 
 ---
 Thanks for the camera you guys!  I spent a rainy afternoon dumping a bunch of videos.
 

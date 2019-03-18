@@ -4,6 +4,7 @@ date: 2009-02-14 01:00:00
 age: 2
 categories: [Ashley]
 tags: []
+thumb: 
 ---
 For Chris' birthday the family got to rent a cabin overnight at Silver Falls State Park. We went for hikes and had a campfire. The Jennings came up to visit and a good time was had by all.
 

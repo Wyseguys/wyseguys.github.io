@@ -3,5 +3,10 @@ title: Ashley Sick Day At Home
 date: 2010-11-11 11:18:00
 age: 3
 categories: [Ashley]
+thumb: https://lh3.googleusercontent.com/fAOffM1JjoDFz0GgIPBthmBvADm8M4V336qhO_KTLa1vmJpVTKi33pLOyQ6-gI_ks1PWWXSFgyEMfZRD9P4=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPHNNTfMqxNA3cTmzWWj4f1XTRQH5ITH5rCW7MU?authKey=CMDO4JP9ofCEXg
+description: If you are gonna be sick, look the part
 ---
-<p>Ashley had a bit of a cold, so she stayed home with Dad and watched tv.</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5543915303143299793%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMDO4JP9ofCEXg%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
+Ashley had a bit of a cold, so she stayed home with Dad and watched tv.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})

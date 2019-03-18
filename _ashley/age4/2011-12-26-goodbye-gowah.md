@@ -3,6 +3,9 @@ title: Goodbye Gowah
 date: 2011-12-26 16:48:00
 age: 4
 categories: [Ashley, Funny]
+thumb: https://lh3.googleusercontent.com/bjVK1OJYUFmuTU4eowEMNal8MKw3tQkebZEvSWCrRcNCCt0mWQWAPiBRNT0Pklqm2GDxo6WJBOXMZRxs5V3pzqQji3aoc6VogxFqkHSF4g=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNDDpqbxKaN2dhnvIOXEUMTQz31xMDP0rTnfMte?source=pwa&authKey=CLjX1rzKve3CMg
+description: a pink furry smear on a dark and damp driveway
 ---
 What kind of savage animals live in this world?
 
@@ -16,4 +19,4 @@ I don't know what to tell Ashley, but I know I have to tell her the truth, or a 
 
 I guess that is all true enough.  I feel like poop for that little girl.
 
-[<img src="https://lh3.googleusercontent.com/bjVK1OJYUFmuTU4eowEMNal8MKw3tQkebZEvSWCrRcNCCt0mWQWAPiBRNT0Pklqm2GDxo6WJBOXMZRxs5V3pzqQji3aoc6VogxFqkHSF4g=w293-h220" alt="a pink furry smear on a dark and damp driveway" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNDDpqbxKaN2dhnvIOXEUMTQz31xMDP0rTnfMte?source=pwa&authKey=CLjX1rzKve3CMg)
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})

@@ -3,122 +3,49 @@ title: "Ashley Photo Collection part 2"
 date: 2008-09-01 00:00:00
 age: 1
 tags: [age1]
+thumb: https://lh3.googleusercontent.com/kZ69thbJDvq3HuoGZGdM-KS6m-8b7OOo7dzLM5KArMKM8ULrzIktj2O_zC4_1EVJmsmRfxOT2kv6DKX7Hg=w293-h220
 ---
-<table border="0" cellspacing="0" cellpadding="4">
-<tbody>
-<tr>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/June08?authkey=yB0LHOHxU-Y">![](http://lh4.ggpht.com/wyseguys/SF6RPBoiB7E/AAAAAAAAA28/9GUBDRZ8pLs/s160-c/June08.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[June 08](http://picasaweb.google.com/wyseguys/June08?authkey=yB0LHOHxU-Y)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left 50%; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/AshleyBeingAshley?authkey=a7QlUcDVGWo">![](http://lh3.ggpht.com/wyseguys/SHWOe4vvUmE/AAAAAAAABJ4/_biokf70vlc/s160-c/AshleyBeingAshley.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[Ashley Being Ashley](http://picasaweb.google.com/wyseguys/AshleyBeingAshley?authkey=a7QlUcDVGWo)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/DoinTheHangOut?authkey=m98lTV40QUU">![](http://lh5.ggpht.com/wyseguys/SJefRkRcnbE/AAAAAAAABXU/2T6ig6zlFco/s160-c/DoinTheHangOut.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[Doin' The Hang Out](http://picasaweb.google.com/wyseguys/DoinTheHangOut?authkey=m98lTV40QUU)</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/ToyTime?authkey=j4nxTwqIqFI">![](http://lh5.ggpht.com/wyseguys/SJefWs4ANaE/AAAAAAAABZ8/q3zQMK9DTrY/s160-c/ToyTime.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[Toy Time](http://picasaweb.google.com/wyseguys/ToyTime?authkey=j4nxTwqIqFI)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/OregonZoo?authkey=WkhYR_rSDJc">![](http://lh3.ggpht.com/wyseguys/SJeeZVKLRLE/AAAAAAAABWc/nZ2cnNNYwYc/s160-c/OregonZoo.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[Oregon Zoo](http://picasaweb.google.com/wyseguys/OregonZoo?authkey=WkhYR_rSDJc)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/NewTricks?authkey=6x6uUZd3wc8">![](http://lh5.ggpht.com/wyseguys/SLYdCt1p81E/AAAAAAAABkk/Fgj6HyrpmXM/s160-c/NewTricks.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[New Tricks](http://picasaweb.google.com/wyseguys/NewTricks?authkey=6x6uUZd3wc8)</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/AugustInSalemAndKickinIt?authkey=z0Ui2Urpgi4">![](http://lh4.ggpht.com/wyseguys/SKzP4bmDUPE/AAAAAAAABg0/A92-ybfI2bU/s160-c/AugustInSalemAndKickinIt.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[August In Salem And Kickin It](http://picasaweb.google.com/wyseguys/AugustInSalemAndKickinIt?authkey=z0Ui2Urpgi4)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/FirstCereal?authkey=-oldpkstgnk#">![](http://lh6.ggpht.com/wyseguys/SMSG70QDvoE/AAAAAAAABoA/5QOfkJ_PSL4/s160-c/FirstCereal.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[First Cereal](http://picasaweb.google.com/wyseguys/FirstCereal?authkey=-oldpkstgnk#)</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td>
-<table style="width: 194px;">
-<tbody>
-<tr>
-<td style="background: url('http://picasaweb.google.com/f/img/transparent_album_background.gif') no-repeat left center; height: 194px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><a href="http://picasaweb.google.com/wyseguys/PostApocolypse?authkey=RAYjffAOKsc#">![](http://lh5.ggpht.com/wyseguys/SMSIW85-UuE/AAAAAAAABqM/_juxz_VP-vc/s160-c/PostApocolypse.jpg)</a></td>
-</tr>
-<tr>
-<td style="text-align: center; font-family: arial,sans-serif; font-size: 11px;">[Post Apocolypse](http://picasaweb.google.com/wyseguys/PostApocolypse?authkey=RAYjffAOKsc#)</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>June 08</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOfZIarZwFutJwW55-i1AS1saskxNKoj5u2gdku?authKey=COanxY_O48KOyAE"><img src="https://lh3.googleusercontent.com/kZ69thbJDvq3HuoGZGdM-KS6m-8b7OOo7dzLM5KArMKM8ULrzIktj2O_zC4_1EVJmsmRfxOT2kv6DKX7Hg=w293-h220" alt="Growing into her chair"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Ashley Being Ashley</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOsdWXDsqlrbHZ6C2eu0R51farv3glUNS6soKft?authKey=COqy1Iacqonaaw"><img src="https://lh3.googleusercontent.com/JSJ3Xhzpxg3QeQaVmWFzAy8siPvSFEiLFVDH5h823zNyK5YiK2cx6LAL9n5SXVvZneZ3niVJb_7sZo3neA=w293-h220" alt="The sleepiness comes from her Dad"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Doin' The Hang Out</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPuK9sJWAvckH5NjOAVti7hNVPNqw8zbUM7ABQT?authKey=CMWC0fHVqcnvmwE"><img src="https://lh3.googleusercontent.com/S_HfdWgVST5gmERRBMAlYkzlFUJz7MQyzECxMn3L61J5oYtiLYah2ATUxN1wYhuNvcjgMAa6qOEJ4SekcQ=w293-h220" alt="Baby battering ram"/></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Toy Time</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPmFHFJq1URpn5z5OeNcZ2cVS8AftUvbcFATmb-?authKey=CNLQotTwqfzEjwE"><img src="https://lh3.googleusercontent.com/71f7GIv-94n-xvAa-i21jSGvtpTvw0MKFu1wTBGzoS2dug-2gBjtOjoKtT07nHj7uYGE_dq3XuWJoYctB1E=w293-h220" alt="Sweet toys"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Oregon Zoo</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNvl6POmsPpJFb8PRmSbcV2E49i_m6SHttanIvS?authKey=CJeZyNb_iJakWg"><img src="https://lh3.googleusercontent.com/Vcua0t9TS5y2I50kk7p3fStbzOvis0qSfsCCfNMNDbytW_WAdwQYUMV9_6WJDrgVErWZMyk4cLktrrC0zg=w293-h220" alt="Ashley not giving a rip about the zoo"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>New Tricks</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipN1D3o7Qxg_fG-RZmoVife0vkDXwpJX1MUNGz7J?authKey=CM-D37uZyquP6wE"><img src="https://lh3.googleusercontent.com/6koEbM2E449OJW0Bd4RtdnIPsBq0URsyXjx31o5mwK7lUUS5ZEXkshQ_i7gJJgR96CADQuTWGjJt4ewGzA=w293-h220" alt="Ride 'em mama"/></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Aug Salem</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOAdHaHQknEhPix0UU_jVflH5mOB6Gjg4ygJxxR?authKey=CK6EpteU28iizwE"><img src="https://lh3.googleusercontent.com/e_SSu1uky6Xo9JuNCDncOklE9lch2zMrwDcdbm1nPckijaSmwQu9bh8op_XoiWy5vkh8KxGGTTJcTmvA364=w293-h220" alt="Grandpa and the babe"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>1st Cereal</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOJNi82dynkvxPleSAwAhMUU5bXz5gmltDdwDLn?authKey=CPmEttnktNfE-gE"><img src="https://lh3.googleusercontent.com/5-MFJHBIPecGvMCTM505UBzgDiMb-TfThYqQAvzCiVGSKDNSqDUN95pbiputg6aw4uiv3DLmbKhgwY6D1w=w293-h220" alt="I mean, same for me.  Right?"/></a>
+    </div>
+    <div class="col-md-4">
+        <h3>Post Apocolypse</h3>
+        <a href="https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMWrGN_85rDjTU8OnzIG6shX56LBwltf4cMhuRq?authKey=CMfVuIDf74iDRA"><img src="https://lh3.googleusercontent.com/WAmxOTG5Yluna7CrePBAu8SmBitgn9BtDC4I_wi_nXT1NpVKbYkowbubGL1VovWlLWXlgJJ9bOTRDWpC5Q=w293-h220" alt="I guess she pooped her pants.  I don't know it was 10 years ago"/></a>
+    </div>
+</div>

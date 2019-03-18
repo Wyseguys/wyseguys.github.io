@@ -3,7 +3,10 @@ title: Sledding with a side of fracture
 date: 2011-01-02 14:08:00
 age: 4
 categories: [Ashley, Home]
+thumb: https://lh3.googleusercontent.com/CFrtyYRZym3ufPMwHUCeFNHeAHdrsxrzOTdkvJ_bNeLNUL10l8Gs3IQUgj6FZqQgEoAgc190cEX9zM2zi_M=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPFu6fr--5rEmjs8vlbEaIS5N8--_08aRVKf__O?authKey=CPHShdbdr_OraA
+description: probably just Ashley
 ---
 We went sledding on Santiam Pass for fun.  Didn't get many pictures because of a vicious casualty on the slope.
 
-[<img src="https://lh3.googleusercontent.com/CFrtyYRZym3ufPMwHUCeFNHeAHdrsxrzOTdkvJ_bNeLNUL10l8Gs3IQUgj6FZqQgEoAgc190cEX9zM2zi_M=w293-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPFu6fr--5rEmjs8vlbEaIS5N8--_08aRVKf__O?authKey=CPHShdbdr_OraA)
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})

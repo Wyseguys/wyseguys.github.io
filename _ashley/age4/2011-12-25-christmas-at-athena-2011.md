@@ -3,8 +3,11 @@ title: Christmas at Athena 2011
 date: 2011-12-25 16:57:00
 age: 4
 categories: [Holiday, Personal]
+thumb: https://lh3.googleusercontent.com/CwCnnpRTPXqOqpTvjQNG5H3o4gTf7h4c3Fq86RdevqbBek91X7MyALEVvGG4sQXdiQBZvVPYtqWcaH_usonOgGQgTlyugT2CaWaPnMYLvyg=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNqrkGmXFzzSoprtgrx3c63GB2s3VPvRJJuyXly?source=pwa&authKey=CJKRxdGrppbKhgE
+description: probably just Ashley
 ---
-[<img src="https://lh3.googleusercontent.com/CwCnnpRTPXqOqpTvjQNG5H3o4gTf7h4c3Fq86RdevqbBek91X7MyALEVvGG4sQXdiQBZvVPYtqWcaH_usonOgGQgTlyugT2CaWaPnMYLvyg=w293-h220" alt="Two stupid dinguses" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNqrkGmXFzzSoprtgrx3c63GB2s3VPvRJJuyXly?source=pwa&authKey=CJKRxdGrppbKhgE)
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
 
 Twas Christmas in Athena<br />
 And all through the hills<br />

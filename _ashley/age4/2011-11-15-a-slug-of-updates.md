@@ -3,10 +3,13 @@ title: A slug of updates
 date: 2011-11-15 16:00:00
 age: 4
 categories: [Ashley, Funny, Personal]
+thumb: https://lh3.googleusercontent.com/uEscVSTX8399n5boeenjUsp4TlkUYcr0F1-tW3CPBEiHfI5r_U5xdthpHMvTzQgUkkvpiMeiND7Wsf_DaZ9uIrQ7p5ZNTIBB2QCkCg36rA8=w294-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPocqZTTHaykp1OlG1dByu9UNSe9pr1frfZrKnC?source=pwa&authKey=CN_TrYqj49zZ6gE
+description: probably just Ashley
 ---
 Ashley was sick, and the dumbest cat in the house was on point.
 
-[<img src="https://lh3.googleusercontent.com/uEscVSTX8399n5boeenjUsp4TlkUYcr0F1-tW3CPBEiHfI5r_U5xdthpHMvTzQgUkkvpiMeiND7Wsf_DaZ9uIrQ7p5ZNTIBB2QCkCg36rA8=w294-h220" alt="probably just ashley" class="wyseguys-album"/>](https://get.google.com/albumarchive/108001626876662627571/album/AF1QipPocqZTTHaykp1OlG1dByu9UNSe9pr1frfZrKnC?source=pwa&authKey=CN_TrYqj49zZ6gE)
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
 
 I just found some photos.  I don't know if I have to take Ashley to a brain doctor, or take myself.
 

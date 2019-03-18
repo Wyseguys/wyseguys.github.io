@@ -3,6 +3,9 @@ title: Tri-cities Camp Out
 date: 2010-07-06 01:45:00
 age: 3
 categories: [Holiday, Personal, Photos]
+thumb: https://lh3.googleusercontent.com/VuQRx13aQ1baH_xzBi2bWnF8FPMseJWc7FPEYxDqVu7PNWVh4mFeMpVrTdg4wmTMGgsO4XjL1EsaqF5scBQ=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipN-cblD9HEM4ZkH7HZjO2E0aUqtFRZd40sGo91D?authKey=CM7Shr3znMf6sgE
+description: Being cool while camping
 ---
 Why Fish Lake campground, run by the Army Corp of Engineers, is a good place to go camp and spend the night.
 <ol>
@@ -10,7 +13,8 @@ Why Fish Lake campground, run by the Army Corp of Engineers, is a good place to 
 	<li>Near Kennewick, WA so if you live there and don’t want to travel…</li>
 	<li>You might have a free pass or something.</li>
 </ol>
-<object width="400" height="267" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://picasaweb.google.com/s/c/bin/slideshow.swf" /><param name="flashvars" value="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5521137398134162561%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCM7Shr3znMf6sgE%26hl%3Den_US" /><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer" /><embed width="400" height="267" type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5521137398134162561%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCM7Shr3znMf6sgE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
 
 Reasons Fish Lake is horrid.  I mean so bad I would rather stay at Crystal Lake and run my chances with Jason than stay here again.  So bad that it would be better to have my toes cut off by a skilsaw than spend another night.
 <ol>

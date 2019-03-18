@@ -3,5 +3,12 @@ title: Grandma and Grandpa At the Park
 date: 2010-02-25 23:36:00
 age: 3
 categories: [Ashley]
+thumb: https://lh3.googleusercontent.com/i2MO2coKQUoNJl1q-qe0Xlrml_cdW_PMr1FrK1AZUqui87TXnS9G8daQ1s-VLHMb_LWEruH2MhKxowizmsQ=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNF6hQpiLmm_kqx8NddSbCaiSpMeyJ5n1poUgcv?authKey=CPSUzJyfs93fDg
+description: Why walk when you can stand on the shoulders of giants or least be pulled by them
 ---
-<p>It was a nice day and Ashley wanted to prove she could ride down the slide by herself.</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5458009761700921441%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCPSUzJyfs93fDg%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>  <p>Nicely done</p>
+It was a nice day and Ashley wanted to prove she could ride down the slide by herself.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+
+Nicely done

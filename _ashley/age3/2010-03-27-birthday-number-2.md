@@ -3,5 +3,14 @@ title: Birthday Number 2
 date: 2010-03-27 23:51:00
 age: 3
 categories: [Ashley]
+thumb: https://lh3.googleusercontent.com/hFEBFX1rVNbkr7IGPCfNJkDlPC4916ikWNUK_J1ONX0vbGtq_2nlBPkn18ZdkEsOehBpt1oN5Exnw9g-kSM=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipOKONPW1tSr0_nD8S5CR0ayvIVM2hxl2L55Uv6e?authKey=CO6mgpvxv5etZQ
+description: The one where Ashley is given cermics for a toy
 ---
-<p>Step 1:  get born</p>  <p>Step 2:  live two years</p>  <p>Step 3:  party like there is no tomorrow</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5458016371023590753%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCO6mgpvxv5etZQ%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
+Step 1:  get born
+
+Step 2:  live two years
+
+Step 3:  party like there is no tomorrow
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})

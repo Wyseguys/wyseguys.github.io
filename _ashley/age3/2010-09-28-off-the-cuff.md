@@ -3,5 +3,12 @@ title: Off The Cuff
 date: 2010-09-28 12:00:00
 age: 3
 categories: [Ashley]
+thumb: https://lh3.googleusercontent.com/7Nmdqie1GF4EmNHsoLlPeDZ0XABSZ2EB8sp07Qyv7AqrDYRum0dS4U6wVm9pEJsgDdcp7xpArTztHd_4o54=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMaglNPGulsmxwzHIihoHNXw71PolUbt5gdxAEu?authKey=CKiBvYKf4ayEXQ
+description: Le sigh
 ---
-<p>Ashley does some really funny things.  We aren’t the best at taking pictures of it all lately.  I would get the camera more often, but we are usually to busy talking to the girl to remember.</p>  <p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5521129549736518209%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCKiBvYKf4ayEXQ%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>  <p>In today’s episode, we find Ashley destroying the living room, walking around the living room in high heels, and being tuned into the TV in various locals.</p>
+Ashley does some really funny things.  We aren’t the best at taking pictures of it all lately.  I would get the camera more often, but we are usually to busy talking to the girl to remember.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.gallery }})
+
+In today’s episode, we find Ashley destroying the living room, walking around the living room in high heels, and being tuned into the TV in various locals.
