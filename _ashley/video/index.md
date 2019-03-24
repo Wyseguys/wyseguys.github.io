@@ -8,8 +8,7 @@ date: 2007-01-01 23:59:50
   {% assign sorted = site.ashley | sort: 'date' %}
   {% for item in sorted %}
     {% assign is_header = item.header %}
-    {% if is_header %}
-    {% else %}
+    {% if is_header != true %}
         {% if page.age == item.age %}
         <div class="col-md-3">
             <img src="{{ item.thumb }}" alt="{{ item.title }} gallery" />
