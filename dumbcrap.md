@@ -5,18 +5,18 @@ date: 2017-11-04
 ---
 <div class="row">
     <div class="col-lg-12">
-        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website. Here.  <a href="{{ site.baseurl }}{% link maternitytest.md %}" class="card-link">Look at this stupid maternity test I created.</a>
+        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website. Here.  <a href="{{ site.baseurl }}{% link maternitytest.md %}" class="card-link">Look at this stupid maternity test I created.</a> And this.  Barf. <a href="{{ site.baseurl }}{% link carousel.md %}" class="card-link">See how childish I am?</a>
     </div>
 </div>
 <div class="row">
     <div class="col-lg-12">
         <div class="card">
-        <div class="card-body">
-            <h4 class="card-title">Suburban Dictionary</h4>
-            <h6 class="card-subtitle mb-2 text-muted">Passive Aggressive in a hidden part of the web</h6>
-            <p class="card-text">How to tell what your (probably white) friend is talking about.</p>
-            <a href="{{ site.baseurl }}{% link _dictionary/index.md %}" class="card-link">Suburban Dictionary Entries</a>
-        </div>
+            <div class="card-body">
+                <h4 class="card-title">Suburban Dictionary</h4>
+                <h6 class="card-subtitle mb-2 text-muted">Passive Aggressive in a hidden part of the web</h6>
+                <p class="card-text">How to tell what your (probably white) friend is talking about.</p>
+                <a href="{{ site.baseurl }}{% link _dictionary/index.md %}" class="card-link">Suburban Dictionary Entries</a>
+            </div>
         </div>
     </div>
 </div>
@@ -51,10 +51,4 @@ date: 2017-11-04
         </div>
         </div>
     </div>
-</div>
-<div class="row">
- <div class="col-lg-12">
-    <h2>Here is my little take on why roators and carousels SUCK on web pages</h2>
-    {% include carousel.html %}
- </div>
 </div>
