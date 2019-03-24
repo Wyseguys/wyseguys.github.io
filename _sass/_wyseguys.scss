@@ -62,7 +62,19 @@ img.wyseguys-album {
     }
 }
 
-@import 
-  "inmypants",
-  "blag"
-;
+.blag-excerpt {
+    background-color: $secondary-color;
+    margin: 0 0 20px 0;
+    padding: 1em;
+}
+
+.blag-excerpt hr {
+    width: 75%;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
