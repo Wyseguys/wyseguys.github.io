@@ -1,6 +1,6 @@
 ---
 title: Christmas Day 2008 In Salem video
-date: 2009-12-30 21:27:00
+date: 2007-12-30 21:27:00
 age: video
 categories: [Ashley, Home, Videos]
 thumb: 

@@ -9,7 +9,7 @@ layout: default
           {% assign date_format = post.minima.date_format | default: "%b %-d, %Y" %}
           {{ post.date | date: date_format }}
         </time>
-      <span>by {{ post.author }}</span>
+        <span>by {{ post.author }}</span>
     </p>
     <div class="content">
       {{ post.excerpt }}

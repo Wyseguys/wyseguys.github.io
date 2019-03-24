@@ -1,14 +1,14 @@
 ---
 title: Highchair Hijinks
-date: 2009-08-12 00:00:00
+date: 2007-08-12 00:00:00
 age: video
 categories: [Ashley, Videos]
 thumb: 
 album: 
 description: 
 ---
-<p>Ashley is starting in our her independence phase.  I know it will be great to have a little person around the house to do my chores and bring me the tv remote, I will still miss my little baby who was all dependent on her daddy.  Gone already are the days when Ashley needs Mommy or Daddy to spoon her food or hold her hand, but with our camera we can capture it forever and be sure to dole out the embarrassment for years to come for Ashley.<br />
-</p>
+Ashley is starting in our her independence phase.  I know it will be great to have a little person around the house to do my chores and bring me the tv remote, I will still miss my little baby who was all dependent on her daddy.  Gone already are the days when Ashley needs Mommy or Daddy to spoon her food or hold her hand, but with our camera we can capture it forever and be sure to dole out the embarrassment for years to come for Ashley.
+
 <div id="silverlightControlHost"><object width="640" height="480" data="data:application/x-silverlight-2," type="application/x-silverlight-2">
 <param name="source" value="http://www.wyseguys.com/blog/ClientBin/VideoPlayer.xap" />
 <param name="background" value="white" />

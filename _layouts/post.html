@@ -9,7 +9,8 @@ layout: default
         <p class="post-meta">
           {% if page.tags %}
             <div class="post-meta float-right">
-                <strong>tags</strong> - <span itemprop="tags" itemscope itemtype="http://schema.org/keywords"><span itemprop="name">{{ page.tags | join: ", " }}</span></span>
+                <strong>tags</strong> - <span itemprop="tags" itemscope itemtype="http://schema.org/keywords">
+                  <span itemprop="name">{{ page.tags | join: ", " }}</span></span>
             </div>
           {% endif %}
           <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -17,9 +18,11 @@ layout: default
             {{ page.date | date: date_format }}
           </time>
           {% if page.author %}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span itemprop="name">{{ page.author }}</span>
+            </span>
           {% endif %}
-          </p>
+        </p>
       </header>
     </div>
   </div>
