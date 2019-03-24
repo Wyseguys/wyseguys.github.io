@@ -1,7 +1,7 @@
 ---
 title: "Rockin' Cow"
 date: 2009-02-08 01:00:00
-age: 2
+age: video
 categories: [Ashley, Of interest, Videos]
 tags: []
 thumb: 

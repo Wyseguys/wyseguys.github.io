@@ -1,7 +1,7 @@
 ---
 title: December Video Bonanza
 date: 2009-12-26 21:22:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

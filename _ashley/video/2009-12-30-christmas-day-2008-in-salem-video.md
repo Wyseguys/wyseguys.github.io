@@ -1,7 +1,7 @@
 ---
 title: Christmas Day 2008 In Salem video
 date: 2009-12-30 21:27:00
-age: 2
+age: video
 categories: [Ashley, Home, Videos]
 thumb: 
 album: 

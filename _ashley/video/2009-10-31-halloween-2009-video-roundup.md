@@ -1,7 +1,7 @@
 ---
 title: Halloween 2009 Video Roundup
 date: 2009-10-31 21:10:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

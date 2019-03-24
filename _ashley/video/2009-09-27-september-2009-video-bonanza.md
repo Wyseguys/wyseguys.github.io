@@ -1,7 +1,7 @@
 ---
 title: September 2009 Video Bonanza
 date: 2009-09-27 21::00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

@@ -1,7 +1,7 @@
 ---
 title: Christmas 2008 - going into it video
 date: 2009-12-27 01:00:00
-age: 2
+age: video
 categories: [Ashley, Home, Videos]
 thumb: 
 album: 

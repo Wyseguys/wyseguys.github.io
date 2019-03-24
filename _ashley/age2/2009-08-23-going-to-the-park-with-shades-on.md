@@ -3,10 +3,10 @@ title: Going to the Park with Shades On
 date: 2009-08-23 00:00:00
 age: 2
 categories: [Ashley]
-thumb: 
-album: 
-description: 
+thumb: https://lh3.googleusercontent.com/Km0amT7u-LygsWOggn90DkVQrbDommZN9XwVA2yOh6aXxiKy1upA7JwMhoE2FYrk1Ao-A7e1D6NDQPJSog=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMPu6EYHnasxUFFanZcVUvBiGiScauRgihtLQ_S?authKey=CLbazKWe2_3wRw
+description: The sun never sets on the cool
 ---
-<p>Ashley knows how to be cool. Mom suggests it is because so many people compliment Ashley on her sunglasses, that Ashley wears them to be an attention hog. Daddy is inclined to agree.</p>
+Ashley knows how to be cool. Mom suggests it is because so many people compliment Ashley on her sunglasses, that Ashley wears them to be an attention hog. Daddy is inclined to agree.
 
-<p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;captions=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5375655595874289857%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCLbazKWe2_3wRw%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

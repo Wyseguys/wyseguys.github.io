@@ -1,11 +1,11 @@
 ---
-title: Roaring Springs &ndash; Boise, ID Sept '09
+title: Roaring Springs - Boise, ID Sept '09
 date: 2009-09-03 12:14:00
 age: 2
 categories: [Ashley]
-thumb: 
-album: 
-description: 
+thumb: https://lh3.googleusercontent.com/SLhvGHEnXHqYeD3m0_Mo6PBL-VBHpcvSABOjfENaY4yfr_RnKKqNkm7UF5lJIL_Ep3D_OacvAb2BZ5AMhg=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNL1YKEE2k74Fm7aZx7LD1t2B4UbnfkgQzG2D6c?authKey=CLGTi8K_8vuJ7QE
+description: Taking the bus to the plane to the car to the water park
 ---
 The first week of September we traveled to Boise, ID to visit with Ashley’s great grandparents and go with Grandma Marsha to Roaring Springs Water Park.<
 

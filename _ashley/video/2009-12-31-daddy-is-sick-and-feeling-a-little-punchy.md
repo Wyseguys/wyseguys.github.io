@@ -1,7 +1,7 @@
 ---
 title: Daddy is sick (and feeling a little punchy)
 date: 2009-12-31 01:53:00
-age: 2
+age: video
 categories: [Funny, Videos]
 thumb: 
 album: 

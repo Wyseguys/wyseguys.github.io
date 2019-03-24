@@ -1,7 +1,7 @@
 ---
 title: "Uncle Kage Showing Ashley the Ropes Of Toys"
 date: 2009-03-22 19:59:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 tags: []
 thumb: 

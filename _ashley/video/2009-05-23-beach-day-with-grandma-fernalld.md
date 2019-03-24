@@ -1,7 +1,7 @@
 ---
 title: Beach Day With Grandma Fernalld
 date: 2009-05-23 20:09:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

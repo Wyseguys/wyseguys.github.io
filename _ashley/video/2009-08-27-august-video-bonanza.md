@@ -1,7 +1,7 @@
 ---
 title: August Video Bonanza
 date: 2009-08-27 20:44:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

@@ -1,7 +1,7 @@
 ---
 title: "Ashley Party Down With A Blanket"
 date: 2009-04-12 20:04:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 tags: []
 thumb: 

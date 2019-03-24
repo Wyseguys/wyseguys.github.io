@@ -1,7 +1,7 @@
 ---
 title: Ashley with the Family at the Oregon Aquarium
 date: 2009-05-24 20:10:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

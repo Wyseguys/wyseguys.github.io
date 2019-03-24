@@ -3,8 +3,8 @@ title: Lunch in Gearhart, OR
 date: 2009-06-14 00:00:00
 age: 2
 categories: [Ashley]
-thumb: 
-album: 
-description: 
+thumb: https://lh3.googleusercontent.com/zeiK3C0YWGc8Th_xDjhLutBbsX4SEIQkp7bkGcAVg2vVyq5FnFCGHfEKbJLePZhrdEuMbjGFLSBT8iRUaCE=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipMVYrATDjF6oYSf3Z2Qc5U-gxSfpu9_zBO9L2KK?authKey=CPzo4ZSJ2NPWIg
+description: I don't know. We sat on a swing.
 ---
-<p><embed type="application/x-shockwave-flash" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" width="400" height="267" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5347344335925918497%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCPzo4ZSJ2NPWIg%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" /></p>
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

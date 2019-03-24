@@ -1,7 +1,7 @@
 ---
 title: Ashley and Mom Setting Up Camp
 date: 2009-06-11 20:14:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

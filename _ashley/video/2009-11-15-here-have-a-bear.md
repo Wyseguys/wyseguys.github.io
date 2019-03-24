@@ -1,7 +1,7 @@
 ---
 title: Here, have a bear
 date: 2009-11-15 21:21:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

@@ -3,9 +3,10 @@ title: Thanks for the stickers chump
 date: 2009-07-23 00:00:00
 age: 2
 categories: [Ashley]
-thumb: 
-album: 
-description: 
+thumb: https://lh3.googleusercontent.com/jARfVhsSZEe5ExbdFbnrYUFKjiE0fgkGWMtg_bcgoaZ6Kw9L5VhI-MTO1lNtCWRwCdw3g3jryQA8egRWD9M=w293-h220
+album: https://get.google.com/albumarchive/108001626876662627571/album/AF1QipNO1MC1tnbUYXsCQnNFk6e0N_t-KD3mphdJF_Jz?authKey=CJiXkcGfq6zGcw
+description: Better than having stickers on my stuff
 ---
-<p> Free stickers in the mail</p>
-<p> <embed height="267" width="400" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Fwyseguys%2Falbumid%2F5361870848710968785%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJiXkcGfq6zGcw%26hl%3Den_US" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" />  </p>
+Free stickers in the mail
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

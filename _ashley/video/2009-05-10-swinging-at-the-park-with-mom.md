@@ -1,7 +1,7 @@
 ---
 title: Swinging At the Park with Mom
 date: 2009-05-10 20:05:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

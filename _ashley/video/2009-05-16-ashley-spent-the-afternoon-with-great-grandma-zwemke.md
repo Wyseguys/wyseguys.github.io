@@ -1,7 +1,7 @@
 ---
 title: Ashley Spent The Afternoon With Great Grandma Zwemke
 date: 2009-05-16 20:06:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

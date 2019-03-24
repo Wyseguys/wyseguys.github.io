@@ -1,7 +1,7 @@
 ---
 title: Playing In The Sprinklers At Grandpa Z's
 date: 2009-05-16 20:08:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 

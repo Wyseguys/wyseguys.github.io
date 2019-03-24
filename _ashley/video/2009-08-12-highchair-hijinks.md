@@ -1,7 +1,7 @@
 ---
 title: Highchair Hijinks
 date: 2009-08-12 00:00:00
-age: 2
+age: video
 categories: [Ashley, Videos]
 thumb: 
 album: 

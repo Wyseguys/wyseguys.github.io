@@ -1,7 +1,7 @@
 ---
-title: Camping At Ft Stevnes
+title: Camping At Ft Stevens
 date: 2009-06-12 20:17:00
-age: 2
+age: video
 categories: [Ashley, Personal, Videos]
 thumb: 
 album: 
