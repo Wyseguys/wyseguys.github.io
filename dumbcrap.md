@@ -51,4 +51,14 @@ date: 2017-11-04
         </div>
         </div>
     </div>
+        <div class="col-lg-4">
+        <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Wheels Are Stupid</h4>
+            <h6 class="card-subtitle mb-2 text-muted">A special search engine that looks into emotions and logic, not just the internet</h6>
+            <p class="card-text">Ask it any qustion</p>
+            <a href="https://wheelsarestupid.com/" class="card-link">wheelsarestupid.com</a>
+        </div>
+        </div>
+    </div>
 </div>
