@@ -32,12 +32,12 @@ layout: default
           {{ content }}
         </div>
     </div>
-    <div class="col-lg-3 related-posts">
+    <div class="col-lg-3">
       {% assign page_main_category = page.categories[0] %}
         {% unless page_main_category == null %}
           {% unless site.categories[page_main_category].size <= 1 %}
             <h2 class="subnav-title">Other {{ page_main_category }} Posts</h2>
-            <ul class="nav flex-column nav-pills">
+            <ul class="nav flex-column nav-pills related-posts">
               {% for item in site.categories[page_main_category] limit:10 %}
                 {% if item.url != page.url %}
                   <li class="nav-item">

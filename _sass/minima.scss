@@ -1,56 +1,121 @@
 @charset "utf-8";
-
-// Define defaults for each variable.
-
-// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-// $base-font-size:   16px !default;
-// $base-font-weight: 400 !default;
-// $small-font-size:  $base-font-size * 0.875 !default;
-// $base-line-height: 1.5 !default;
-
-// $spacing-unit:     30px !default;
-
-// $text-color:       #111 !default;
-// $background-color: #fdfdfd !default;
-// $brand-color:      #2a7ae2 !default;
-
-// $grey-color:       #828282 !default;
-// $grey-color-light: lighten($grey-color, 40%) !default;
-// $grey-color-dark:  darken($grey-color, 25%) !default;
-
-// // Width of the content area
-// $content-width:    800px !default;
-
-// $on-palm:          600px !default;
-// $on-laptop:        800px !default;
-
-// // Use media queries like this:
-// // @include media-query($on-palm) {
-// //   .wrapper {
-// //     padding-right: $spacing-unit / 2;
-// //     padding-left: $spacing-unit / 2;
-// //   }
-// // }
-// @mixin media-query($device) {
-//   @media screen and (max-width: $device) {
-//     @content;
-//   }
-// }
-
-// @mixin relative-font-size($ratio) {
-//   font-size: $base-font-size * $ratio;
-// }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap');
 
 
-// // Import partials.
-// @import
-//   "minima/base",
-//   "minima/layout",
-//   "minima/syntax-highlighting"
-// ;
+$body-bg: #244564;
+$body-color: #EEE4E9;
+
+//palette
+// EEE4E9
+// 6AB2C8
+// 244564
+// 656F7D
+// 1D171E
+
+$primary:       #264666;
+$secondary:     #656F7D;
+$success:       #419057;
+$info:          #1d171e;
+$warning:       #be7f1f;
+$danger:        #f44336;
+$light:         #eee4e9;
+$dark:          #1d171e;
+
+$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base:            $font-family-sans-serif !default;
 
 @import 
   "bootstrap/bootstrap.scss",
-  "wyseguys",
   "inmypants"
 ;
+
+$secondary-color:rgba(240, 235, 235, 0.5);
+
+.header {
+    background-color:$dark;
+    margin: 0 0 3em 0;
+    padding: 10px;
+}
+
+.header a {
+    color: $light;
+}
+.header a:hover {
+    text-decoration: underline;
+}
+
+header nav div {
+    font-size: 2em;
+}
+
+main {
+    h1,h2,h3,h4,h5,h6 {
+        font-family: 'Poppins', $font-family-sans-serif;
+    }
+}
+
+.footer{
+    background-color:$secondary;
+    margin: 100px 0 0 0;
+    padding: 20px 15px 10px 15px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: $gray-800;
+}
+.nav-pills .nav-item-head {
+    font-size: 1.2em;
+}
+
+blockquote {
+    border-left: 3px solid $gray-500;
+    margin: 10px 2em;
+    padding: 0 0 0 1em;
+}
+
+.subnav-title {
+  background-color: $dark;
+  padding: .5em;
+}
+
+.related-posts {
+  background-color: $light;
+}
+
+.related-posts a {
+  color: $dark;
+}
+
+img.wyseguys-album {
+    max-height: 300px;
+}
+
+.well {
+    margin: 10px 0 0 0;
+    background-color: $light;
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #000;
+    h3.ad {
+        font-size: .8em;
+        border: 1px 0 1px 0 solid $dark;
+    }
+}
+
+.blag-excerpt {
+    background-color: $secondary;
+    margin: 0 0 20px 0;
+    padding: 1em;
+}
+
+.blag-excerpt hr {
+    width: 75%;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
