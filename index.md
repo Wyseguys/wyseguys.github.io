@@ -25,7 +25,7 @@ layout: default
   </div>
   <div class="row">
     <div class="col">
-        <h5 class="text-right"><a href="{{ site.baseurl }}{% link blag/index.html %}">Read the rest of Blag &#187;&#187;</a></h5>
+        <strong class="text-right"><a href="{{ site.baseurl }}{% link blag/index.html %}">Read the rest of Blag &#187;&#187;</a></strong>
     </div>
   </div>
   <div class="row">
