@@ -1,53 +1,56 @@
-<div class="row">
-  <div class="col-lg-12">
-    <footer class="footer rounded">
-      <h2 class="footer-heading">{{ site.motto | escape }}</h2>
-      <div class="row">
-        <div class="col-lg-4">
-          <p>Don't contact me, I probably won't reply<br><br>Unless you are looking for Marvin, in which case tell him
-            to spell his damn email correctly.</p>
-        </div>
-        <div class="col-lg-4">
-          <ul class="social-media-list">
-            <li>
-              <a href="https://stackexchange.com/users/12343/mrchrister"><img src="https://stackexchange.com/users/flair/12343.png"
-                  width="208" height="58" alt="profile for MrChrister on Stack Exchange, a network of free, community-driven Q&amp;A sites"
-                  title="profile for MrChrister on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-            </li>
-            {% if site.github_username %}
-            <li>
-              {% include icon-github.html username=site.github_username %}
-            </li>
-            {% endif %}
+<footer class="footer">
+  <div class="guts">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="row">
+          <div class="col-lg-4">
+            <h2 class="footer-heading">{{ site.motto | escape }}</h2>
+            <p>Don't contact me, I probably won't reply<br><br>Unless you are looking for Marvin, in which case tell him
+              to spell his damn email correctly.</p>
+          </div>
+          <div class="col-lg-4">
+            <ul class="social-media-list list-unstyled">
+              <li>
+                <a href="https://stackexchange.com/users/12343/mrchrister"><img
+                    src="https://stackexchange.com/users/flair/12343.png" width="208" height="58"
+                    alt="profile for MrChrister on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+                    title="profile for MrChrister on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+              </li>
+              {% if site.github_username %}
+              <li>
+                {% include icon-github.html username=site.github_username %}
+              </li>
+              {% endif %}
 
-            {% if site.twitter_username %}
-            <li>
-              {% include icon-twitter.html username=site.twitter_username %}
-            </li>
-            {% endif %}
-            <li>
-              <a href="http://chriszwemke.brandyourself.com/">Chris Zwemke at BrandYourself.com</a>
-            </li>
-            <li>
-              <a href="http://money.stackexchange.com/users/91/">Personal Finance and Money</a>
-            </li>
-            <li>
-              <a href="http://about.me/wyseguys">About.Me</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-lg-4">
-          <p>{{ site.description | escape }}</p>
+              {% if site.twitter_username %}
+              <li>
+                {% include icon-twitter.html username=site.twitter_username %}
+              </li>
+              {% endif %}
+              <li>
+                <a href="http://chriszwemke.brandyourself.com/">Chris Zwemke at BrandYourself.com</a>
+              </li>
+              <li>
+                <a href="http://money.stackexchange.com/users/91/">Personal Finance and Money</a>
+              </li>
+              <li>
+                <a href="http://about.me/wyseguys">About.Me</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <p>{{ site.description | escape }}</p>
+          </div>
         </div>
       </div>
-    </footer>
-  </div>
-</div>
-<div class="row">
-  <div class="col-lg-12">
-    <div class="well">
-      <h3 class="ad">Support This Page By Ignoring These Ads</h3>
-      {% include google-adsense-footer.html %}
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="well">
+          <h3 class="ad">Support This Page By Ignoring These Ads</h3>
+          {% include google-adsense-footer.html %}
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</footer>

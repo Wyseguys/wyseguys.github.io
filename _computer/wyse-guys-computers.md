@@ -1,5 +1,5 @@
 ---
-title: "Wyse Guys Computers"
+title: "Who were the Wyse Guys"
 permalink: computers/
 date: 2012-04-11 23:09
 page: 10

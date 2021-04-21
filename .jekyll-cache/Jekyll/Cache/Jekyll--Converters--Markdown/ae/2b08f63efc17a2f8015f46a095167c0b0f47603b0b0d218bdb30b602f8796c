@@ -1,4 +1,4 @@
-I"Ò<div class="home">
+I"ô<div class="home">
   <h1 class="page-heading">My Stupid Site On the Dumbernet</h1>
   <p>
   What is more important.  Putting my opinion on the internet or finding a cheap hosting solution and practice on SASS from time to time.</p>
@@ -6,7 +6,7 @@
   <h2 class="page-heading">Blag Posts</h2>
   <div class="row marketing">
       
-      <div class="col-lg-4">
+      <div class="col">
         
         <span class="post-meta">Aug 9, 2020</span>
         <h3>
@@ -17,7 +17,7 @@
 </p>
       </div>
     
-      <div class="col-lg-4">
+      <div class="col">
         
         <span class="post-meta">May 25, 2020</span>
         <h3>
@@ -28,7 +28,7 @@
 </p>
       </div>
     
-      <div class="col-lg-4">
+      <div class="col">
         
         <span class="post-meta">Dec 28, 2019</span>
         <h3>
@@ -41,13 +41,13 @@
     
   </div>
   <div class="row">
-    <div class="col-lg-12">
-        <h5 class="text-right"><a class="page-link" href="/blag/">Read the rest of Blag</a></h5>
+    <div class="col">
+        <h5 class="text-right"><a href="/blag/">Read the rest of Blag &#187;&#187;</a></h5>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-12">
-      <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+    <div class="col">
+      <p class="rss-subscribe">If you'd like disappointment delivered automatically to your life subscribe <a href="/feed.xml">via RSS</a></p>
     </div>
   </div>
 </div>

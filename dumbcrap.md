@@ -4,12 +4,13 @@ layout: page
 date: 2017-11-04 
 ---
 <div class="row">
-    <div class="col-lg-12">
-        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website. Here.  <a href="{{ site.baseurl }}{% link maternitytest.md %}" class="card-link">Look at this stupid maternity test I created.</a> And this.  Barf. <a href="{{ site.baseurl }}{% link carousel.md %}" class="card-link">See how childish I am?</a>
+    <div class="col">
+    <p>
+        I have done more dumb crap than I am proud of.  I have also done more dumb crap than I have remembered to post on this website. Here.  <a href="{{ site.baseurl }}{% link maternitytest.md %}" class="card-link">Look at this stupid maternity test I created.</a> And this.  Barf. <a href="{{ site.baseurl }}{% link carousel.md %}" class="card-link">See how childish I am?</a></p>
     </div>
 </div>
 <div class="row">
-    <div class="col-lg-12">
+    <div class="col">
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Suburban Dictionary</h4>
@@ -21,7 +22,7 @@ date: 2017-11-04
     </div>
 </div>
 <div class="row">
-    <div class="col-lg-4">
+    <div class="col">
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Wayne The Brain</h4>
@@ -31,7 +32,7 @@ date: 2017-11-04
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col">
         <div class="card">
         <div class="card-body">
             <h4 class="card-title">The Church of Buffett, Orthodox</h4>
@@ -41,7 +42,7 @@ date: 2017-11-04
         </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col">
         <div class="card">
         <div class="card-body">
             <h4 class="card-title">Wyse Guys Computers (Formerly)</h4>
@@ -51,7 +52,7 @@ date: 2017-11-04
         </div>
         </div>
     </div>
-        <div class="col-lg-4">
+        <div class="col">
         <div class="card">
         <div class="card-body">
             <h4 class="card-title">Wheels Are Stupid</h4>

@@ -1,9 +1,10 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 
 $body-bg: #244564;
-$body-color: #EEE4E9;
+$body-color: #F8F9F9;
 
 //palette
 // EEE4E9
@@ -18,10 +19,10 @@ $success:       #419057;
 $info:          #1d171e;
 $warning:       #be7f1f;
 $danger:        #f44336;
-$light:         #eee4e9;
+$light:         #F8F9F9;
 $dark:          #1d171e;
 
-$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-sans-serif:      "Lato", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 
@@ -32,9 +33,11 @@ $font-family-base:            $font-family-sans-serif !default;
 
 $secondary-color:rgba(240, 235, 235, 0.5);
 
+
+
 .header {
     background-color:$dark;
-    margin: 0 0 3em 0;
+    border-bottom: 5px solid $warning;
     padding: 10px;
 }
 
@@ -45,20 +48,54 @@ $secondary-color:rgba(240, 235, 235, 0.5);
     text-decoration: underline;
 }
 
+header nav {
+    max-width: 1140px;
+    margin: auto;
+    padding: auto 15px;
+}
+
 header nav div {
     font-size: 2em;
 }
 
 main {
+    padding: 2em 0;
+    margin: 0 0 1em 0;
     h1,h2,h3,h4,h5,h6 {
         font-family: 'Poppins', $font-family-sans-serif;
     }
+    h1 {
+        border-bottom: 5px solid $warning;
+        margin-bottom: 1.5rem;
+    }
+    h1.no-border {
+        border-bottom: none;
+        margin-bottom: .5rem;
+    }
+}
+
+.container
+{
+    background-color: $body-color;
+    color: $dark;
 }
 
 .footer{
+    width: 100%;
     background-color:$secondary;
-    margin: 100px 0 0 0;
-    padding: 20px 15px 10px 15px;
+
+    .guts
+    {
+        max-width: 1140px;
+        margin: auto;
+        padding: 20px 15px 10px 15px;
+        font-size: .9em;
+
+        .social-media-list a {
+            color: $light;
+        }
+    }
+
 }
 
 .nav-pills .nav-link.active {
@@ -76,6 +113,7 @@ blockquote {
 
 .subnav-title {
   background-color: $dark;
+  color: $light;
   padding: .5em;
 }
 
@@ -104,7 +142,7 @@ img.wyseguys-album {
 }
 
 .blag-excerpt {
-    background-color: $secondary;
+    border-bottom: 2px solid $secondary;
     margin: 0 0 20px 0;
     padding: 1em;
 }

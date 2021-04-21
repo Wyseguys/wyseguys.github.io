@@ -13,7 +13,7 @@ layout: default
   <h2 class="page-heading">Blag Posts</h2>
   <div class="row marketing">
       {% for post in site.posts limit:3 %}
-      <div class="col-lg-4">
+      <div class="col">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -24,13 +24,13 @@ layout: default
     {% endfor %}
   </div>
   <div class="row">
-    <div class="col-lg-12">
-        <h5 class="text-right"><a class="page-link" href="{{ site.baseurl }}{% link blag/index.html %}">Read the rest of Blag</a></h5>
+    <div class="col">
+        <h5 class="text-right"><a href="{{ site.baseurl }}{% link blag/index.html %}">Read the rest of Blag &#187;&#187;</a></h5>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-12">
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div class="col">
+      <p class="rss-subscribe">If you'd like disappointment delivered automatically to your life subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
     </div>
   </div>
 </div>
