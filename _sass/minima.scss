@@ -44,6 +44,17 @@ $secondary-color:rgba(240, 235, 235, 0.5);
 .header a {
     color: $light;
 }
+
+.header .site-header {
+    font-size:3rem;
+}
+
+@include media-breakpoint-up(sm) {
+.header .site-header {
+    font-size:5rem;
+}
+}
+
 .header a:hover {
     text-decoration: underline;
 }
