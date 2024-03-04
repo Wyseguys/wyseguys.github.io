@@ -1,0 +1,18 @@
+<h2 class="subnav-title">The Other Shitty Roommate</h2>
+<ul class="nav flex-column nav-pills">
+  {% assign sorted = (site.ashley | sort: 'date') %}
+  {% for item in sorted reversed %}
+  {% assign is_header = item.header %}
+  {% if is_header %}
+  <li class="nav-item nav-item-head">
+    <strong><a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a></strong>
+  </li>
+  {% else %}
+  {% if page.age == item.age %}
+  <li class="nav-item nav-item-sub">
+    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</ul>

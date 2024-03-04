@@ -1,0 +1,14 @@
+---
+title: Birthday 4 at home
+date: 2012-03-24 16:30:00
+age: 5
+categories: [Ashley, Personal]
+thumb: https://lh3.googleusercontent.com/2Eb0Tn6t_aCHNeqUzC2eVgBu7DIBAtiIbiKEOvgAaegRznTDBZ-GhVKbaw3sVB9Rnn178xjv0D-MXgsx4yX_bf8p2sZf_aMz9VokgytUDmZLc7mNNtruXNSyXkHsSQmOG9sR1N72L5wDpkfgLFDOhkPuf_7OcSu86cexJHAfdRPjdqjMOgtndA9046wqwaDRHJMyabsyXsz40rz3bNOUS77DQiw2vM5AWkYABQsBnRNKWGyiGxzPMEYKT1JPk8WrY_sgY6VIqdg_spq6LyzCjWFWy27A5GnYq7zH6CR1bRAvUNxktyhQkA_Yn8l_EkIj_WWKoXHSKvrcjwVvYtsdlo2-By7ybIbLFqC4zsmO17pebL0H048w1QSmuPlWvgezE0nGIRF416XsCJhKuC1dE8pz54Jagad7oc6V7956SYMeA1UddinF2bofo4R7EB8IuHKNpQQI5f2HmAZ4viXm6kw7PQFq9o1_3FXGJg6VxkzgTY6DZQnq19D0gPrLsMCN0G4UlKYmqaBPaorLuDrva5NmZCmoMKYZQ9PEqG5dkx_sMpuHZKrQbxA3BquE25v7-njIG-oZ0o1w3bt0G5LVL47l-LfjGDuX5gvaQC6yWETdcpwtkA0e6asJrAzR9gOMQy7FA9TPu4QVE7rs7tWlQ1zzhw=w1698-h1273-no
+album: https://photos.google.com/album/AF1QipODST0gmKLz1perKqZEn7JUJU24O9M366WwEIk3?key=CPqNpvW0mpqGdA
+description: Ashley has eyes to match her cake
+---
+We had a prefunk gathering of close friends and family at the homestead.  The trains were in full effect, and the family was all crowded around a table showering The Daughter with more presents than I suppose a kid ought to have.
+
+If I was a tougher Dad I would have put a stop to it, but who can resist her?  Click the big link below to see all the pictures.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

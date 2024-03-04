@@ -1,0 +1,12 @@
+---
+title: Christmas Tree for 2012
+date: 2012-12-02 00:29:00
+age: 5
+categories: [Ashley, Personal, Photos]
+thumb: https://lh3.googleusercontent.com/rM7z51U1BllfMLiub1yz_f9ip7YC1Bv-LQX-hSE0pvYHDEVM1CTMGOG3TSBpz3VvFmQpHSbHBdFjAdquO6aXPZMXyy3l81jdotNMB5k5oESlxiaxREFGgSEKzTeomRrAG2v4P_zaCYDXWbdZQUd8Wf2LmIqXC-Rt5Ol9YCxBMlEn1V8lKE1Yw5e10ib5g_-u7imIuQrtVTpo6qHkNt7gbnPHuxCqEINHdmZQOImY8SoXZTBUo81yu6wTPkTlM8IuDfcAASS4MwOFlTT9KZzii9_3IuzMy6bmCe1NWa6K0HrFhDuxzUBBkq69S9XlUIwFnvk6hCAF20iH8BJIpL4fBKUBS5c8jLiJYKji1dIathCOH4gfPtpCBhGxyXzaasB5uDor-537rAzfvvj1TMNzD3dHhRjy-Xpa99VnuS1bg5qEismIW3u_bv3gUWLsnHoApYXlRG_tIwcszDL_99VZ_6Z4OW3deMy4-Abdn4q59wjRB51d4GfgSpYQJlR5V5cGG8y2AeAffd6n6sxKIUOQi3TI9uxKrQd84ZNTinjMWtF-i65aOJ4FXmsbJUrWYugAaUts-Y1XXB37cEgfttzvpXHyQFA51neZhMbXWyAyjiRuHbyXB3VX16pxbvboZt6W4kZtXtL_gDfW2jq2lfH42LwY=w435-h326-no
+album: https://photos.google.com/album/AF1QipPV8rBb8Q5yTDDjgkg2iuFnXNuofL5LDTs4bZ6Q
+description: Ashley letting mom do someting important on behind the tree
+---
+Getting the tree was a U-Cut adventure this year.  Decorating it was seemingly more fun.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

@@ -1,0 +1,13 @@
+<h2 class="subnav-title">The Saga</h2>
+<ul class="nav flex-column nav-pills related-posts">
+  {% assign sorted = (site.shittyroommate | sort: 'date') %}
+  {% for item in sorted %}
+  <li class="nav-item">
+    <a class="nav-link{% if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<div class="well">
+  <h3 class="ad">Support This Page By Ignoring These Ads</h3>
+  {% include google-adsense-bottomnav.html %}
+</div>

@@ -1,0 +1,23 @@
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+
+{% if page.hero == true %}
+<body class="inmypants-body-hero">
+{% else %}
+<body class="inmypants-body"></body>
+{% endif %}
+  <hr class="inmypants-divider">
+  <div class="container">
+    <main role="main">
+      {{content}}
+    </main>
+  </div>
+  <hr class="inmypants-divider">
+  <div class="inmypants-homelink"><a href="/inmypants"> More of <span class="inmypant-brand">In My Pants!!!</span></a></div>
+  <div class="inmypants-homelink"><a href="/"> Back to the homepage that started this mess...</a></div>
+  <div class="well">
+    <h3 class="ad">Support This Page By Ignoring These Ads</h3>
+    {% include google-adsense-footer.html %}
+  </div>
+</body>
+</html>

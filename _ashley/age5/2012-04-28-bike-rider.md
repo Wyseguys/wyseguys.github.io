@@ -1,0 +1,12 @@
+---
+title: Bike Rider
+date: 2012-04-28 22:34:00
+age: 5
+categories: [Ashley, Photos]
+thumb: https://lh3.googleusercontent.com/MYDcdHj10RSlwfOqnPEerYvV-4aCWPaHeNQm9ehluyPPMQuWeBDvmaWsQ2gi3k05sQQRN08ESxYxq0Kkb6CZ6bCIEuks5Nvqb5KxnExRteuCEPejJBswyHC7uX-IXWNAZSlyH8VyGD712_zrJxMUCSPF9dgkE7r4LTlymhDTb_JcuHc97ONUi9guTIIEZ4s53EKbSVwF6-I0Ppt1Q6XCvIIVVHbvUxKMAAW0Y_uZ4daEBXZhhU1PbLOptPEpLRUNveVWqWG8tmdM3AYGIRInT4Kd8UU_UO4IH3mtZsSqKL6Ao-40_oa-j4aG_gWIV2-7oTrhMYWkzJm6vdp5_z0qjSJ2M8EFAhwsc7obY_RgIcO_Jr94NfuB7h4XCfoRV9hLMJyTbX_i-uVLlmFH03W_Dm-etuOMBo69mEyOcUx3y2GwXk70w7uZm7tQo9mkikFGCQfjf10Gaw8mYbhGcMwfbB0Qmz5fiN9K9wPMRRMTvKcWvj61IgWbEyFgk6pM5194nM-_GNt9qcwomq02jNb3f54fUQ0gp4QsGzBrC2LAHour8smzycjw93qFYw_3_X9gX_Bm_xrprALLqVs7OIcRwE_DheHbr9fGlEgPA0m6R95ZftwylWUgBP2lmgNSwFXamqraG3Cen-48SRkzDmGBzb4xug=w1698-h1273-no
+album: https://photos.google.com/album/AF1QipMP1Mj5eqr2DC8nClFJdwrcYH6FP5_viCMkqLYR?key=CLKr-sju8P6ceg
+description: Ashley has long since established the need for speed
+---
+Not only does she ride her bike, but she watches way too much model competition shows with Mom.
+
+[<img src="{{ page.thumb }}" alt="{{ page.description }}" class="wyseguys-album"/>]({{ page.album }})

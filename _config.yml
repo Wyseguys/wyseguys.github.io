@@ -13,22 +13,140 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Pavlov's Dad
+motto: Nothing New Ever
+email: wyseguys@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am just squatting on this mediocre domain name and hogging up all the good email addresses for it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.wyseguys.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: wyseguys
+github_username:  wyseguys
+google_analytics: UA-639642-2
+
+paginate: 5
+paginate_path: "/blag/page:num/"
+
+collections:
+  shittyroommate:
+    output: true
+  wayne:
+    output: true
+  computer:
+    output: true
+  dictionary:
+    output: true
+  ashley:
+    output: true
+  inmypants:
+    output: true
+  zenjefe:
+    output: true
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: "MrChrister"
+      excerpt_separator: <!--more-->
+  -
+    scope:
+      path: ""
+      type: "ashley" 
+    values:
+      layout: "subnav"
+      collection-title: "The Secret-ish Blug"
+      sitemap: false
+      excerpt_separator: <!--more-->
+      subnav: "nav-ashley.html"
+      show_date: true
+      show_nextprev: false
+  -
+    scope:
+      path: ""
+      type: "shittyroommate"
+    values:
+      layout: "subnav"
+      collection-title: "Shitty Roommate"
+      attribution: "By Martin Random"
+      excerpt_separator: <!--more-->
+      subnav: "nav-shitty.html"
+      show_date: false
+      show_nextprev: true
+  -
+    scope:
+      path: ""
+      type: "wayne"
+    values:
+      layout: "subnav"
+      collection-title: "Wayne the Brain"
+      excerpt_separator: <!--more-->
+      subnav: "nav-wayne.html"
+      show_date: false
+      show_nextprev: false
+  -
+    scope:
+      path: ""
+      type: "computer"
+    values:
+      layout: "subnav"
+      collection-title: "WyseGuys Computer"
+      excerpt_separator: <!--more-->
+      subnav: "nav-computer.html"
+      show_date: false
+      show_nextprev: false
+  -
+    scope:
+      path: ""
+      type: "dictionary"
+    values:
+      layout: "subnav"
+      collection-title: "Suburban Dictionary"
+      excerpt_separator: <!--more-->
+      subnav: "nav-dictionary.html"
+      show_date: false
+      show_nextprev: true
+      rank: 0
+  -
+    scope:
+      path: ""
+      type: "zenjefe"
+    values:
+      layout: "page"
+      sitemap: false
+      excerpt_separator: <!--more-->
+      show_date: false
+      show_nextprev: false
+  -
+    scope:
+      path: ""
+      type: "inmypants"
+    values:
+      layout: "inmypants"
+      attribution: "From the mind of WCRTZJB"
+      sitemap: false
+      excerpt_separator: <!--more-->
+      show_date: false
+      show_nextprev: false
+
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

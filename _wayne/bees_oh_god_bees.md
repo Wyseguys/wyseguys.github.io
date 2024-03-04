@@ -1,0 +1,7 @@
+---
+title: Bees, oh god Bees!
+date: 2012-04-11 23:22
+---
+Dear Jeff,
+
+I want to thank the food court for it’s wonderful service. Last week as many of you know, I was trapped in my room by a swarm of very angry hornets. If it was not for the brilliant and timely actions of the food court, I surely would have been lost. Thanks to all the brave men and women who saw to it that I had plenty of Ice Cream and Waffle Fries to eat.
