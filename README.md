@@ -4,7 +4,7 @@ Wyseguys.com is the personal site of Chris Zwemke.  As a web developer by trade 
 
 # Jekyll
 
-This is a Jekyll generated blog.  It is developed on Windows 10 pro, using Visual Studio Code and Windows Subsystem for Linux..
+This is a Jekyll generated blog.  It is developed on Linux Mint 21.3, using Visual Studio Code and Docker.
 
 # minima
 
@@ -18,20 +18,23 @@ This is a Jekyll generated blog.  It is developed on Windows 10 pro, using Visua
 
 Follow the instructions at https://jekyllrb.com/docs/ in the quickstart.  Even though I am using Windows 10 Pro, follow the linux instructions because we are doing the WSL.  It works great.
 
-I keep the code in a directory on my C:, that I created a symlink in WSL to.  So when I first start the WSL, my folder is symlinked in the home directory and it is quick and easy to run
+I keep the code in a directory home, there is then a DockerFile that will start up an environment.
 
-sudo bundle exec jekyll serve --incremental
+I copied this setup from https://gist.github.com/BillRaymond/db761d6b53dc4a237b095819d33c7332
 
-## Contributing
+0. Local Dev:  git, VS Code (extensions Docker & Dev Containers), Docker Desktop.
+1. Clone this repo and open the directory in VS Code
+2. ctrl + p, use the "Rebuild Container" command in VS Code
+...
+3. VS Code will bounce and show you are running the same code in a container.
+4. bundle exec jekyll serve --incremental
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+The last command might prompt you to do the bundle gem install or whatever if you haven't done it in that container before.  No biggy.
+
 
 ## Development
 
-To set up your environment to develop this theme, run `script/bootstrap`.
+Good luck!
 
-To test your theme, run `script/server` (or `sudo bundle exec jekyll serve --incremental`) and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
+To test your theme, run ` bundle exec jekyll serve --incremental` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme and the contents. As you make modifications, your site will regenerate and you should see the changes in the browser after a refresh.
 
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
